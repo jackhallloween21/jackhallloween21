@@ -33,3 +33,5 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=jackhalloween&count_private=true&show_icons=true&theme=radical&line_height=27">
   <br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jackhalloween&hide=css,java,html&theme=radical&&layout=compact">
+  <br>
