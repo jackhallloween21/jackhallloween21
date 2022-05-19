@@ -12,11 +12,11 @@
 - 💬 tell me some **jokes**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: .[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699) <a> href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://instagram.com/its_deathmachine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_deathmachine" height="30" width="40" /></a>
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
