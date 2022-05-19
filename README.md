@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning .About Android Custom rom and recovery and kernel.
 - 👯 I’m looking to collaborate on ...
 - 💬 tell me some **jokes**
-- ![Jokes Card](https://readme-jokes.vercel.app/api)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699) <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
