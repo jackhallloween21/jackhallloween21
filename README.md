@@ -41,3 +41,4 @@
   
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=([Y.]n.j)" />
 </p> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
