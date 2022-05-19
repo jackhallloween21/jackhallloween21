@@ -1,5 +1,5 @@
-![spotify-github-profile](/icon/default.svg)
-![spotify-github-profile](/icon/novatorem.svg)
+![spotify-github-profile](/icons/default.svg)
+![spotify-github-profile](/icons/novatorem.svg)
 ### Hi there 👋
 <p align="center">
 <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/wallpapersden.com_k-talking-to-the-moon_3840x2160.jpg" />
