@@ -1,4 +1,4 @@
-### Hi there 👋 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackhalloween)](https://git.io/streak-stats)
+### Hi there 👋
 <p align="center">
 <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/wallpapersden.com_k-talking-to-the-moon_3840x2160.jpg" />
 </p align="center">
@@ -37,4 +37,5 @@
   <br>
    <img src = "https://activity-graph.herokuapp.com/graph?username=jackhalloween&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" />
 </p> 
-
+#
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
