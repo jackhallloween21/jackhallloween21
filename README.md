@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jackhallloween21/jackhallloween21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 </p align="center">
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
