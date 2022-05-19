@@ -1,5 +1,4 @@
 ![spotify-github-profile](/icons/default.svg)
-![spotify-github-profile](/icons/novatorem.svg)
 ### Hi there 👋
 <p align="center">
 <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/wallpapersden.com_k-talking-to-the-moon_3840x2160.jpg" />
@@ -16,7 +15,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699) <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)
 -->
 
 </p>
