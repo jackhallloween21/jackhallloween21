@@ -23,3 +23,9 @@
 
 <h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+<p align="center">
+  Its just a Start<img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/1980519.png" width="30">
+</p>
