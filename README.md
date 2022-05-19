@@ -36,6 +36,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
   <br>
    <img src = "https://activity-graph.herokuapp.com/graph?username=jackhalloween&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" />
+  
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit007-creator&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
