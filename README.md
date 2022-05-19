@@ -35,3 +35,4 @@
   <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
   <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackhalloween)](https://git.io/streak-stats)
