@@ -27,5 +27,5 @@
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 <p align="center">
-  Its just a Start<img src="https://github.com/soumyajit007-creator/soumyajit007-creator/blob/main/1980519.png" width="30">
+  Its just a Start<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/earth-rocket-2308317-1945099.png" width="30">
 </p>
