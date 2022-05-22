@@ -56,6 +56,13 @@
   <tr>
         <td  align="center">
         <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-     <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
-     td  align="center">
+     
+  <td  align="center">
         <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
+ </td>
+ <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
+ <td  align="center">
+        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.licenses.svg" alt=""></img></details>
+        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
