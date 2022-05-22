@@ -52,3 +52,8 @@
 </td>
   </tr>
   <tr>
+ <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+  <tr>
+        <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" 
