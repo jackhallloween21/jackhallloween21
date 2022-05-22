@@ -56,4 +56,6 @@
   <tr>
         <td  align="center">
         <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" 
+     <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
+     td  align="center">
+        <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
