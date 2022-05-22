@@ -66,3 +66,13 @@
         <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
+ <td  align="center">
+        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
+         <td  align="center">
+        <details open><summary>By contribution types</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.contributors.categories.svg" alt=""></img></details>
+        </td>
+        <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/jackhallloween21-2021%20(1).stl" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
