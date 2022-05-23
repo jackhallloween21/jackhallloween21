@@ -35,11 +35,11 @@
 </p>
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=jackhalloween&count_private=true&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=jackhallloween21&count_private=true&show_icons=true&theme=radical&line_height=27">
   <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
   <br>
-   <img src = "https://activity-graph.herokuapp.com/graph?username=jackhalloween&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" />
+   <img src = "https://activity-graph.herokuapp.com/graph?username=jackhallloween21&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" />
   
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=([Y.]n.j)" />
 </p> 
