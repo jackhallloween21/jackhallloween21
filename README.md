@@ -73,7 +73,7 @@
         </td>
         <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
         <td  align="center">
-        <img alt="" width="400" src="https://skyline.github.com/jackhallloween21/2021" alt=""></img>
+        <img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.skyline.svg" alt=""></img>
         <img width="900" height="1" alt="">
       </td>
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
