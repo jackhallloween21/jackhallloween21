@@ -33,7 +33,7 @@
  
 - 😄 Pronouns: ...HE HIS HIM 
 - ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br>
 <br>
