@@ -190,7 +190,8 @@ The modern imagery of Halloween comes from many sources, including Christian esc
 
 
 
-[My Github :computer: Repo:](https://github.com/jackhallloween21) <p align="left"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> </p>
+[My Github :computer: Repo:](https://github.com/jackhallloween21) 
+<p align="left"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> </p>
 
 
 
