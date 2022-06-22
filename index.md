@@ -39,6 +39,7 @@
 </p>
 <br>
 <br>  
+
 ![spotify-github-profile](/icons/default.svg)
 
 ![GitHub Snake dark](/github-contribution-grid-snake.svg)
