@@ -124,7 +124,7 @@ alt=""></img></details>
 
 
 
-<img width="30%" align="right" alt="Github Image" src="/pic/unnamed.png" /> 
+<img width="30%" align="right" alt="Github Image" src="/unnamed.png" /> 
 
 
  Also called:
@@ -169,7 +169,7 @@ In Britain, these customs came under attack during the Reformation, as Protestan
 
 In parts of Italy until the 15th century, families left a meal out for the ghosts of relatives, before leaving for church services. In 19th-century Italy, churches staged "theatrical re-enactments of scenes from the lives of the saints" on All Hallow's Day, with "participants represented by realistic wax figures". In 1823, the graveyard of Holy Spirit Hospital in Rome presented a scene in which bodies of those who recently died were arrayed around a wax statue of an angel who pointed upward towards heaven. In the same country, "parish priests went house-to-house, asking for small gifts of food which they shared among themselves throughout that night". In Spain, they continue to bake special pastries called "bones of the holy" (Spanish: Huesos de Santo) and set them on graves. At cemeteries in Spain and France, as well as in Latin America, priests lead Christian processions and services during Allhallowtide, after which people keep an all night vigil. In 19th-century San Sebastián, there was a procession to the city cemetery at Allhallowtide, an event that drew beggars who "appeal[ed] to the tender recollectons of one's deceased relations and friends" for sympathy.
 
-<img width="30%" align="left" alt="Github Image" src="/pic/halloweenn.jpg" /> 
+<img width="30%" align="left" alt="Github Image" src="/halloweenn.jpg" /> 
 
 # Symbols:
 Development of artifacts and symbols associated with Halloween formed over time. Jack-o'-lanterns are traditionally carried by guisers on All Hallows' Eve in order to frighten evil spirits.There is a popular Irish Christian folktale associated with the jack-o'-lantern, which in folklore is said to represent a "soul who has been denied entry into both heaven and hell":
@@ -188,7 +188,7 @@ The modern imagery of Halloween comes from many sources, including Christian esc
 
 
 
-![Image](/pic/hand-drawn-halloween-background_23-2149064303.webp)
+![Image](/hand-drawn-halloween-background_23-2149064303.webp)
 
 
 
