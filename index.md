@@ -188,10 +188,33 @@ In Ireland and Scotland, the turnip has traditionally been carved during Hallowe
 
 The modern imagery of Halloween comes from many sources, including Christian eschatology, national customs, works of Gothic and horror literature (such as the novels Frankenstein; or, The Modern Prometheus and Dracula) and classic horror films such as Frankenstein (1931) and The Mummy (1932). Imagery of the skull, a reference to Golgotha in the Christian tradition, serves as "a reminder of death and the transitory quality of human life" and is consequently found in memento mori and vanitas compositions; skulls have therefore been commonplace in Halloween, which touches on this theme. Traditionally, the back walls of churches are "decorated with a depiction of the Last Judgment, complete with graves opening and the dead rising, with a heaven filled with angels and a hell filled with devils", a motif that has permeated the observance of this triduum. One of the earliest works on the subject of Halloween is from Scottish poet John Mayne, who, in 1780, made note of pranks at Halloween; "What fearfu' pranks ensue!", as well as the supernatural associated with the night, "Bogies" (ghosts), influencing Robert Burns' "Halloween" (1785). Elements of the autumn season, such as pumpkins, corn husks, and scarecrows, are also prevalent. Homes are often decorated with these types of symbols around Halloween. Halloween imagery includes themes of death, evil, and mythical monsters. Black cats, which have been long associated with witches, are also a common symbol of Halloween. Black, orange, and sometimes purple are Halloween's traditional colors.
 
+# Trick-or-treating and guising:
 
+Trick-or-treating is a customary celebration for children on Halloween. Children go in costume from house to house, asking for treats such as candy or sometimes money, with the question, "Trick or treat?" The word "trick" implies a "threat" to perform mischief on the homeowners or their property if no treat is given. The practice is said to have roots in the medieval practice of mumming, which is closely related to souling. John Pymm wrote that "many of the feast days associated with the presentation of mumming plays were celebrated by the Christian Church." These feast days included All Hallows' Eve, Christmas, Twelfth Night and Shrove Tuesday. Mumming practiced in Germany, Scandinavia and other parts of Europe,involved masked persons in fancy dress who "paraded the streets and entered houses to dance or play dice in silence".
+
+
+Girl in a Halloween costume in 1928, Ontario, Canada, the same province where the Scottish Halloween custom of guising was first recorded in North America
+In England, from the medieval period, up until the 1930s, people practiced the Christian custom of souling on Halloween, which involved groups of soulers, both Protestant and Catholic,going from parish to parish, begging the rich for soul cakes, in exchange for praying for the souls of the givers and their friends.In the Philippines, the practice of souling is called Pangangaluwa and is practiced on All Hallow's Eve among children in rural areas.People drape themselves in white cloths to represent souls and then visit houses, where they sing in return for prayers and sweets.
+
+![This is an image](/thumb-1920-552086.jpg)
+
+In Scotland and Ireland, guising – children disguised in costume going from door to door for food or coins – is a traditional Halloween custom.It is recorded in Scotland at Halloween in 1895 where masqueraders in disguise carrying lanterns made out of scooped out turnips, visit homes to be rewarded with cakes, fruit, and money. In Ireland, the most popular phrase for kids to shout (until the 2000s) was "Help the Halloween Party". The practice of guising at Halloween in North America was first recorded in 1911, where a newspaper in Kingston, Ontario, Canada, reported children going "guising" around the neighborhood.
+
+American historian and author Ruth Edna Kelley of Massachusetts wrote the first book-length history of Halloween in the US; The Book of Hallowe'en (1919), and references souling in the chapter "Hallowe'en in America". In her book, Kelley touches on customs that arrived from across the Atlantic; "Americans have fostered them, and are making this an occasion something like what it must have been in its best days overseas. All Halloween customs in the United States are borrowed directly or adapted from those of other countries".
+
+While the first reference to "guising" in North America occurs in 1911, another reference to ritual begging on Halloween appears, place unknown, in 1915, with a third reference in Chicago in 1920. The earliest known use in print of the term "trick or treat" appears in 1927, in the Blackie Herald, of Alberta, Canada.
+
+![Image](/realistic-halloween-background_52683-72972.webp)
+
+An automobile trunk at a trunk-or-treat event at St. John Lutheran Church and Early Learning Center in Darien, Illinois
+The thousands of Halloween postcards produced between the turn of the 20th century and the 1920s commonly show children but not trick-or-treating. Trick-or-treating does not seem to have become a widespread practice in North America until the 1930s, with the first US appearances of the term in 1934,[175] and the first use in a national publication occurring in 1939.
+
+A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween tailgating), occurs when "children are offered treats from the trunks of cars parked in a church parking lot", or sometimes, a school parking lot. In a trunk-or-treat event, the trunk (boot) of each automobile is decorated with a certain theme, such as those of children's literature, movies, scripture, and job roles. Trunk-or-treating has grown in popularity due to its perception as being more safe than going door to door, a point that resonates well with parents, as well as the fact that it "solves the rural conundrum in which homes built a half-mile apart".
 
 [My Github :computer: Repo:](https://github.com/jackhallloween21) 
-<p align="left"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> </p>
+<p align="left"> 
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> 
+</p>
 
 
 
