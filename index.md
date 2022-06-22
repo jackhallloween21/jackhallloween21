@@ -125,7 +125,10 @@
 <img alt="" width="900"
 src="Jack_Hallloween21.png"
 alt="">
-  
+ 
+ # Youtube Video (Installing Windows Subsystem with Magisk Manually)
+[![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
+
 # Halloween 🎃🦇👻
 
 
