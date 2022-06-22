@@ -7,17 +7,44 @@
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 <img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" />
 
-- 🔭 I’m currently working on .Telegram Bots,app deployment on heroku.
-- 🌱 I’m currently learning .About Android Custom rom and recovery and kernel.
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on :Telegram Bots,app deployment on heroku,okteto,netlify,free vps.ect
+- 
+- 🌱 I’m currently learning : About Android Custom rom(8-12L) and recovery and kernel , Virtual Machine,Linux, Windows 7-11 (Deveploper Preview), RDP, VNC, MongoDB,Android App Emulation using Android Studio,Telegram Bot,Mac OS or HAckintosh...
+- 
+- 👯 I’m looking to collaborate on ...(Atleast something important in life)
+- 
 - 💬 tell me some **jokes**                                    
 - ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699) <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
-- 😄 Pronouns: ...
+- 
+- 🤔 I’m looking for help with some issues in some repos..
+- 
+- 💬 Ask me about ...(Nothing, I am Ultimate Noob)
+- 
+- 📫 How to reach me:
+-  [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
+ <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
+<a href="https://twitter.com/jackhalloween6"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jack.halloween21" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jack.halloween21" height="30" width="40" /></a>
+<a href="https://facebook.com/technohp/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jack.halloween21" height="30" width="40" /></a>
+
+@jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+- 😄 Pronouns: ...HE HIS HIM 
 - ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+<br>
+<br>
+
+## logos:
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
+<br>  
 
 ![GitHub Snake dark](github-contribution-grid-snake.svg)
 
