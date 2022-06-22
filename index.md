@@ -75,45 +75,45 @@
 <img src="/download.svg" width="500px">
 </p>
 
-<td align="center">
+<p align="center">
 <img alt="" width="400" src="/metrics.organization.svg" alt="">
-</td>
+</p>
 
 <tr>
 <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
 </tr>
 
-  <td  align="center">
+  <p  align="center">
   <details open><summary>Full year calendar</summary><img alt="" width="400" src="/metrics.plugin.isocalendar.fullyear.svg" alt=""></details>
-</td>   
+</p>   
 
-<td  align="center">
+<p  align="center">
  <details open><summary>With icons</summary><img alt="" width="400" src="/metrics.plugin.topics.icons.svg" alt=""></details>
- </td>
+ </p>
  
  <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
  
- <td  align="center">
+ <p  align="center">
  <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="/metrics.plugin.licenses.svg" alt=""></details>
         
  <details open><summary>Licenses overview</summary><img alt="" width="400" src="/metrics.plugin.licenses.ratio.svg" alt=""></details>
    <img width="900" height="1" alt="">
-   </td>
+   </p>
       
- <td  align="center">
+ <p  align="center">
  <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></details>
- </td>
+ </p>
         
- <td  align="center">
+ <p  align="center">
  <details open><summary>By contribution types</summary><img alt="" width="400" src="metrics.plugin.contributors.categories.svg" alt=""></details>
-  </td>
+  </p>
         
 <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
 
- <td  align="center">
+ <p  align="center">
 <img alt="" width="400" src="/metrics.plugin.skyline.svg" alt="">
 <img width="900" height="1" alt="">
- </td>
+ </p>
       
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -124,7 +124,7 @@
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
 src="/Jack_Hallloween21.png"
-alt=""></details>
+alt="">
   
 # Halloween 🎃🦇👻
 
@@ -175,7 +175,7 @@ In Britain, these customs came under attack during the Reformation, as Protestan
 
 In parts of Italy until the 15th century, families left a meal out for the ghosts of relatives, before leaving for church services. In 19th-century Italy, churches staged "theatrical re-enactments of scenes from the lives of the saints" on All Hallow's Day, with "participants represented by realistic wax figures". In 1823, the graveyard of Holy Spirit Hospital in Rome presented a scene in which bodies of those who recently died were arrayed around a wax statue of an angel who pointed upward towards heaven. In the same country, "parish priests went house-to-house, asking for small gifts of food which they shared among themselves throughout that night". In Spain, they continue to bake special pastries called "bones of the holy" (Spanish: Huesos de Santo) and set them on graves. At cemeteries in Spain and France, as well as in Latin America, priests lead Christian processions and services during Allhallowtide, after which people keep an all night vigil. In 19th-century San Sebastián, there was a procession to the city cemetery at Allhallowtide, an event that drew beggars who "appeal[ed] to the tender recollectons of one's deceased relations and friends" for sympathy.
 
-<img width="30%" align="left" alt="Github Image" src="/halloweenn.jpg" /> 
+<img width="30%" align="left" alt="Github Imaghe" src="/halloweenn.jpg" /> 
 
 # Symbols:
 Development of artifacts and symbols associated with Halloween formed over time. Jack-o'-lanterns are traditionally carried by guisers on All Hallows' Eve in order to frighten evil spirits.There is a popular Irish Christian folktale associated with the jack-o'-lantern, which in folklore is said to represent a "soul who has been denied entry into both heaven and hell":
