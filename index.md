@@ -72,11 +72,11 @@
 </p> 
   
 <p align="center">	
-<img src="/download.svg" width="500px">
+<img src="download.svg" width="500px">
 </p>
 
 <p align="center">
-<img alt="" width="400" src="/metrics.organization.svg" alt="">
+<img alt="" width="400" src="metrics.organization.svg" alt="">
 </p>
 
 <tr>
@@ -84,17 +84,17 @@
 </tr>
 
   <p  align="center">
-  <details open><summary>Full year calendar</summary><img alt="" width="400" src="/metrics.plugin.isocalendar.fullyear.svg" alt=""></details>
+  <details open><summary>Full year calendar</summary><img alt="" width="400" src="metrics.plugin.isocalendar.fullyear.svg" alt=""></details>
 </p>   
 
 <p  align="center">
- <details open><summary>With icons</summary><img alt="" width="400" src="/metrics.plugin.topics.icons.svg" alt=""></details>
+ <details open><summary>With icons</summary><img alt="" width="400" src="metrics.plugin.topics.icons.svg" alt=""></details>
  </p>
  
  <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
  
  <p  align="center">
- <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="/metrics.plugin.licenses.svg" alt=""></details>
+ <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="metrics.plugin.licenses.svg" alt=""></details>
         
  <details open><summary>Licenses overview</summary><img alt="" width="400" src="/metrics.plugin.licenses.ratio.svg" alt=""></details>
    <img width="900" height="1" alt="">
@@ -111,7 +111,7 @@
 <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
 
  <p  align="center">
-<img alt="" width="400" src="/metrics.plugin.skyline.svg" alt="">
+<img alt="" width="400" src="metrics.plugin.skyline.svg" alt="">
 <img width="900" height="1" alt="">
  </p>
       
@@ -123,7 +123,7 @@
   
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
-src="/Jack_Hallloween21.png"
+src="Jack_Hallloween21.png"
 alt="">
   
 # Halloween 🎃🦇👻
