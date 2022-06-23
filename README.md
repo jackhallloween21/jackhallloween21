@@ -112,7 +112,7 @@
 
 [![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
  
- # _Some of my github hosted websites_:
+ # _Some of my github hosted websites_: (I didn"t built them found them on some sites like dcoder,codepen)
  
  ## *** Click the icons to visit the websites ***
  
