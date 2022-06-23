@@ -113,7 +113,8 @@
 [![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
  
  # _Some of my github hosted websites_:
-  <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="https://imgur.com/3jOId8o" alt="3D_Cube_Clock" height="50" width="50" /></a>
+ 
+  <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="/Screenshot_2022-06-23_122637-removebg-preview.png" alt="3D_Cube_Clock" height="50" width="50" /></a>
  
 [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
