@@ -118,7 +118,7 @@
  
   <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="/Screenshot_2022-06-23_122637-removebg-preview.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock**
  
- <a href="https://jackhallloween21.github.io/Gate-of-Time/" target="blank"><img align="center" src="https://i.imgur.com/1reSu7s.png" alt="Gate-of-Time" height="250" width="250" /></a> **Gate-of-Time**
+ <a href="https://jackhallloween21.github.io/Gate-of-Time/" target="blank"><img align="left" src="https://i.imgur.com/1reSu7s.png" alt="Gate-of-Time" height="250" width="250" /></a> **Gate-of-Time**
  
 [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
