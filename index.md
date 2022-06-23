@@ -231,7 +231,7 @@ The thousands of Halloween postcards produced between the turn of the 20th centu
 
 A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween tailgating), occurs when "children are offered treats from the trunks of cars parked in a church parking lot", or sometimes, a school parking lot. In a trunk-or-treat event, the trunk (boot) of each automobile is decorated with a certain theme, such as those of children's literature, movies, scripture, and job roles. Trunk-or-treating has grown in popularity due to its perception as being more safe than going door to door, a point that resonates well with parents, as well as the fact that it "solves the rural conundrum in which homes built a half-mile apart".
 
-[My Github :computer: Repo:](https://github.com/jackhallloween21) 
+[My Github 🖥️ Repo:](https://github.com/jackhallloween21) 
 <p align="left"> 
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> 
 </p>
