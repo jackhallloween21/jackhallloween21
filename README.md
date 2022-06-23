@@ -26,7 +26,7 @@
 <a href="https://twitter.com/jackhalloween6"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jack.halloween6" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lucifermorningstarthedevil69969" height="30" width="40" /></a>
 <a href="https://facebook.com/technohp/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jack.halloween21.techno" height="30" width="40" /></a>
-<a href="https:/discord.gg/XEWJ8Yr2AQ"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jack.halloween21s.Server" height="30" width="40" /></a>
+<a href="https://discord.gg/XEWJ8Yr2AQ"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jack.halloween21s.Server" height="30" width="40" /></a>
 
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
