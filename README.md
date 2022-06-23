@@ -93,11 +93,11 @@
  
   <a href="https://jackhallloween21.github.io/3D-Cube/" target="blank"><img align="center" src="https://i.imgur.com/xmu8tpC.png" alt="3D Cube Movement" height="250" width="250" /></a> **3D cube moving in all sides**
   
-   <a href="https://jackhallloween21.github.io/Win7UI/" target="blank"><img align="center" src="https://i.imgur.com/nESBAXs.png" alt="Windows7 Emulator" height="150" width="150" /></a> **Windows 7 Emulator**
+   <a href="https://jackhallloween21.github.io/Win7UI/" target="blank"><img align="center" src="https://i.imgur.com/uGDsMzH.jpg" alt="Windows7 Emulator" height="150" width="150" /></a> **Windows 7 Emulator**
    
-   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://i.imgur.com/mZ2VpHw.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best expeience don't open this using desktop site)**
+   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://imgur.com/eScIxEq.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best expeience don't open this using desktop site)**
    
-  <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://i.imgur.com/s5XcrAf.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator**
+  <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator**
 
 [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
