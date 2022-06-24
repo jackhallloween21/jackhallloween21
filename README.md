@@ -114,22 +114,20 @@
  
  # _Some of my github hosted websites_: (I didn"t built them found them on some sites like dcoder,codepen)
  
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  ## *** Click the icons to visit the websites ***
  
- [![Website 3D Cube Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/clock-3D-Cubic/")
+  <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="/Screenshot_2022-06-23_122637-removebg-preview.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock** [![Website 3D Cube Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/clock-3D-Cubic/")
  
-  <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="/Screenshot_2022-06-23_122637-removebg-preview.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock**
+ <a href="https://jackhallloween21.github.io/Gate-of-Time/" target="blank"><img align="center" src="https://i.imgur.com/1reSu7s.png" alt="Gate-of-Time" height="250" width="250" /></a> **Gate-of-Time**  [![Website Gate-of-Time](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/Gate-of-Time/")
  
- <a href="https://jackhallloween21.github.io/Gate-of-Time/" target="blank"><img align="center" src="https://i.imgur.com/1reSu7s.png" alt="Gate-of-Time" height="250" width="250" /></a> **Gate-of-Time**
- 
-  <a href="https://jackhallloween21.github.io/3D-Cube/" target="blank"><img align="center" src="https://i.imgur.com/xmu8tpC.png" alt="3D Cube Movement" height="250" width="250" /></a> **3D cube moving in all sides**
+  <a href="https://jackhallloween21.github.io/3D-Cube/" target="blank"><img align="center" src="https://i.imgur.com/xmu8tpC.png" alt="3D Cube Movement" height="250" width="250" /></a> **3D cube moving in all sides**  [![Website 3D Cube Moving](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/3D-Cube/")
   
-   <a href="https://jackhallloween21.github.io/Win7UI/" target="blank"><img align="center" src="https://i.imgur.com/nESBAXs.png" alt="Windows7 Emulator" height="150" width="150" /></a> **Windows 7 Emulator**
+   <a href="https://jackhallloween21.github.io/Win7UI/" target="blank"><img align="center" src="https://i.imgur.com/nESBAXs.png" alt="Windows7 Emulator" height="150" width="150" /></a> **Windows 7 Emulator**   [![Website Windows 7 Emulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/Win7UI/")
    
-   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://i.imgur.com/mZ2VpHw.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best expeience don't open this using desktop site)**
+   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://i.imgur.com/mZ2VpHw.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best expeience don't open this using desktop site)**  [![Website Iphone Emulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/iphonesimulator/")
    
-  <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://i.imgur.com/s5XcrAf.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator**
+  <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://i.imgur.com/s5XcrAf.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator**  [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/WindowsSimulatorTools/")
  
 [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
