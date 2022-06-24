@@ -13,7 +13,7 @@
 - 
 - 💬 tell me some **jokes**                                    
 - ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-- 
+ <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 - 🤔 I’m looking for help with some issues in some repos..
 - 
 - 💬 Ask me about ...(Nothing, I am Ultimate Noob)
