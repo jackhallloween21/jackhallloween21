@@ -35,7 +35,7 @@
 - 😄 Pronouns: ...HE HIS HIM 
 - ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)
 
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/jackhallloween21/jackhallloween21/issues/new/choose)
 <br>
 <br>
 <br>
