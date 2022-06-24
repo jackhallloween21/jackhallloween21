@@ -28,7 +28,7 @@
 <a href="https://facebook.com/technohp/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jack.halloween21.techno" height="30" width="40" /></a>
 <a href="https://discord.gg/XEWJ8Yr2AQ"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jack.halloween21s.Server" height="30" width="40" /></a>
 <a href="mailto:jackhalloween21@gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jack.halloween21" height="30" width="70" /></a>
- [![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)(mailto:jackhalloween21@protonmail.com/)
+ [![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jackhalloween21@protonmail.com/)
  
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
