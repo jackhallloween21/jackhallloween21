@@ -114,7 +114,10 @@
  
  # _Some of my github hosted websites_: (I didn"t built them found them on some sites like dcoder,codepen)
  
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
  ## *** Click the icons to visit the websites ***
+ 
+ [![Website 3D Cube Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://https://jackhallloween21.github.io/clock-3D-Cubic/")
  
   <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="/Screenshot_2022-06-23_122637-removebg-preview.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock**
  
