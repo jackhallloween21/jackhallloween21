@@ -26,11 +26,30 @@
 <a href="https://facebook.com/technohp/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jack.halloween21.techno" height="30" width="40" /></a>
 <a href="https://discord.gg/XEWJ8Yr2AQ"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jack.halloween21s.Server" height="30" width="40" /></a>
 
+# Light Theme Icons
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackhalloween21@gmail.com/)
+[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jackhalloween21@protonmail.com/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XEWJ8Yr2AQ)
+[![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jack.halloween21/)
+ [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/technohp/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jackhalloween6/)
+[![Gitlab Bagde](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jack.sparrow.cap.blackpearl)
+
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+- 😄 Pronouns: ...HE HIS HIM 
+- ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)
+ 
+# Dev Card
+<a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=1sd" width="400" alt="Jack Halloween's Dev Card"/></a>
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/jackhallloween21/jackhallloween21/issues/new/choose)
 <br>
+# Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JokesMemesFacts)](https://github.com/gazf/github-readme-twitter)
 <br>
 <br>
 
@@ -39,14 +58,85 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
-<br>  
+<br> 
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Naereen/badges/master)
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
+[![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+ [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+ 
+ [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
+ 
+ [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+ [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+ [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+ [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+ [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+ [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+ [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+ 
+ 
 ![spotify-github-profile](/icons/default.svg)
 
 ![GitHub Snake dark](/github-contribution-grid-snake.svg)
 
+# AI Bots
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
+![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+
+# Blog
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
+
+# :globe_with_meridians: Browsers
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+
+# OS
+![Brave](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![Edge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white))
+![Google Chrome](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Firefox](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![IE](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Opera](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Safari](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tor](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Vivaldi](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## Moon phase in real time 
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+
+
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+[![ASS](https://camo.githubusercontent.com/d0df622d92d96a8bce953274a36b8e00e8906de45f2746ecc8177046123d4881/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616c6c)
 
 <h2 align="center">
   My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -81,7 +171,7 @@
 </p>
 
 <tr>
-<th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+<th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
 </tr>
 
   <p  align="center">
@@ -92,7 +182,7 @@
  <details open><summary>With icons</summary><img alt="" width="400" src="metrics.plugin.topics.icons.svg" alt=""></details>
  </p>
  
- <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
+ <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/licenses/README.md">📜 Repository licenses</a></th>
  
  <p  align="center">
  <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="metrics.plugin.licenses.svg" alt=""></details>
@@ -109,7 +199,7 @@
  <details open><summary>By contribution types</summary><img alt="" width="400" src="metrics.plugin.contributors.categories.svg" alt=""></details>
   </p>
         
-<th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
+<th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
 
  <p  align="center">
 <img alt="" width="400" src="metrics.plugin.skyline.svg" alt="">
@@ -123,20 +213,21 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
   
  # _Some of my github hosted websites_: (I didn"t built them found them on some sites like dcoder,codepen)
+ [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  
  ## *** Click the icons to visit the websites ***
  
-  <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="https://i.imgur.com/3jOId8o.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock**
+  <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="https://i.imgur.com/3jOId8o.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock** [![Website 3D Cube Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/clock-3D-Cubic/)
  
- <a href="https://jackhallloween21.github.io/Gate-of-Time/" target="blank"><img align="center" src="https://i.imgur.com/1reSu7s.png" alt="Gate-of-Time" height="250" width="250" /></a> **Gate-of-Time**
+ <a href="https://jackhallloween21.github.io/Gate-of-Time/" target="blank"><img align="center" src="https://i.imgur.com/1reSu7s.png" alt="Gate-of-Time" height="250" width="250" /></a> **Gate-of-Time** [![Website Gate-of-Time](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/Gate-of-Time/)
  
-  <a href="https://jackhallloween21.github.io/3D-Cube/" target="blank"><img align="center" src="https://i.imgur.com/xmu8tpC.png" alt="3D Cube Movement" height="250" width="250" /></a> **3D cube moving in all sides**
+  <a href="https://jackhallloween21.github.io/3D-Cube/" target="blank"><img align="center" src="https://i.imgur.com/xmu8tpC.png" alt="3D Cube Movement" height="250" width="250" /></a> **3D cube moving in all sides** [![Website 3D Cube Moving](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/3D-Cube/)
   
-   <a href="https://jackhallloween21.github.io/Win7UI/" target="blank"><img align="center" src="https://i.imgur.com/uGDsMzH.jpg" alt="Windows7 Emulator" height="150" width="150" /></a> **Windows 7 Emulator**
+   <a href="https://jackhallloween21.github.io/Win7UI/" target="blank"><img align="center" src="https://i.imgur.com/uGDsMzH.jpg" alt="Windows7 Emulator" height="150" width="150" /></a> **Windows 7 Emulator** [![Website Windows 7 Emulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/Win7UI/)
    
-   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://imgur.com/eScIxEq.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best expeience don't open this using desktop site)**
+   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://imgur.com/eScIxEq.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best expeience don't open this using desktop site)** [![Website Iphone Emulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/iphonesimulator/)
    
-  <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator**
+  <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/WindowsSimulatorTools/)
   
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
