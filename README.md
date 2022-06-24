@@ -184,8 +184,10 @@
       </td>
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![ASS](https://camo.githubusercontent.com/d0df622d92d96a8bce953274a36b8e00e8906de45f2746ecc8177046123d4881/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616c6c)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 [![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
