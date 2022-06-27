@@ -46,11 +46,6 @@
  <img align="center" alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC-5-P2ShRYIis_HItg8YsWw&key=AIzaSyBUTJFpgm19ko9RGJGC4xGiaJHMHj6vk48"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1"><img alt="youtube views" title="Subscribe to my YouTube channel"  align="center" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?color=0a8b9d#"/></a>
-
-<a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1"><img align="center" alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logoColor=gold#"/></a>
-
-![Dx](https://gitwar.herokuapp.com/badge?username=jackhallloween21&color=green&style=plastic)
 
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
