@@ -237,6 +237,8 @@
    
   <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/WindowsSimulatorTools/)
   
+  <a href="https://jackhallloween21.github.io/Other-Github-Hosted-Project-Links/" target="blank"><img align="center" src="https://imgur.com/s6EkOoy.png" alt="Index link and github project" height="150" width="150" /></a> **Index Links and Other Github hosted Project**
+  
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
 src="Jack_Hallloween21.png"
