@@ -55,7 +55,7 @@
 - ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)
 
 # Dev Card
-<a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=1sd" width="400" alt="Jack Halloween's Dev Card"/></a>
+<a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=car" width="400" alt="Jack Halloween's Dev Card"/></a>
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/jackhallloween21/jackhallloween21/issues/new/choose)
 <br>
