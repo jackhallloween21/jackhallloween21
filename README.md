@@ -50,7 +50,7 @@
 
 <a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1"><img align="center" alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logoColor=gold#"/></a>
 
-![(https://gitwar.herokuapp.com/badge?username=jackhallloween21&color=green&style=plastic)]
+![Dx](https://gitwar.herokuapp.com/badge?username=jackhallloween21&color=green&style=plastic)
 
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
