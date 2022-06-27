@@ -36,7 +36,7 @@
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jackhalloween6/)
 [![Gitlab Bagde](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jack.sparrow.cap.blackpearl)
 
-<a href="https://chat.whasapp.com/KOnpnpNuChpC6P2NVmj1Q">
+<a href="https://chat.whatsapp.com/Edw0xvA0JCQD72fYO1M68n">
     <img align="center" src="whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>
   
