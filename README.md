@@ -38,6 +38,20 @@
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jackhalloween6/)
 [![Gitlab Bagde](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jack.sparrow.cap.blackpearl)
 
+<a href="https://chat.whasapp.com/KOnpnpNuChpC6P2NVmj1Q">
+    <img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw">
+ <img align="center" alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC-5-P2ShRYIis_HItg8YsWw&key=AIzaSyBUTJFpgm19ko9RGJGC4xGiaJHMHj6vk48"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1"><img alt="youtube views" title="Subscribe to my YouTube channel"  align="center" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?color=0a8b9d#"/></a>
+
+<a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1"><img align="center" alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logoColor=gold#"/></a>
+
+![(https://gitwar.herokuapp.com/badge?username=jackhallloween21&color=green&style=plastic)]
+
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
