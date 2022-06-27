@@ -54,7 +54,7 @@
 # Dev Card
 <a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=1sd" width="400" alt="Jack Halloween's Dev Card"/></a>
 
-<iframe src="https://devcard.link/tdOsYK" height="200" width="300" style="border:none;" title="Dev Card"></iframe>
+<iframe src="https://devcard.link/tdOsYK" height="560" width="250" style="border:none;" title="Dev Card"></iframe>
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/jackhallloween21/jackhallloween21/issues/new/choose)
 <br>
