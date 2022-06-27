@@ -39,7 +39,7 @@
 [![Gitlab Bagde](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jack.sparrow.cap.blackpearl)
 
 <a href="https://chat.whasapp.com/KOnpnpNuChpC6P2NVmj1Q">
-    <img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+    <img align="center" src="/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw">
