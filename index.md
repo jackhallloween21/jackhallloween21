@@ -251,10 +251,12 @@ alt="">
 
 
 
-<rssapp-wall id="HBjtXA9MRHy9W8MP"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+<rssapp-wall id="HBjtXA9MRHy9W8MP"></rssapp-wall>
+<script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
 
 
-<rssapp-carousel id="HBjtXA9MRHy9W8MP"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
+<rssapp-carousel id="HBjtXA9MRHy9W8MP"></rssapp-carousel>
+<script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
 
 # Halloween 🎃🦇👻
 
