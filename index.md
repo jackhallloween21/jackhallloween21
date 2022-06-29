@@ -249,7 +249,13 @@ alt="">
  # Youtube Video (Installing Windows Subsystem with Magisk Manually)
 [![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
 
+<rssapp-wall id="HBjtXA9MRHy9W8MP"></rssapp-wall>
+<script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+
 <rssapp-wall id="HBjtXA9MRHy9W8MP"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+
+
+<rssapp-carousel id="HBjtXA9MRHy9W8MP"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
 
 # Halloween 🎃🦇👻
 
