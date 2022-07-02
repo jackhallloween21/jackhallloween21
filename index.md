@@ -146,7 +146,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-[![ASS](https://camo.githubusercontent.com/d0df622d92d96a8bce953274a36b8e00e8906de45f2746ecc8177046123d4881/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616c6c)]
+![ASS](https://camo.githubusercontent.com/d0df622d92d96a8bce953274a36b8e00e8906de45f2746ecc8177046123d4881/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616c6c)
 
 <h2 align="center">
   My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
