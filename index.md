@@ -99,6 +99,14 @@
  
 ![spotify-github-profile](/icons/default.svg)
 
+## Spotify Music
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZEVXbMWDif5SCBJq?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+## Youtube Playlist
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLsDblIUMTkw3KPoe2ynbXhRqwmxQ7wSOe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![https://music.youtube.com/playlist?list=PLsDblIUMTkw3KPoe2ynbXhRqwmxQ7wSOe&feature=share]
+
 ![GitHub Snake dark](/github-contribution-grid-snake.svg)
 
 # AI Bots 🤖
