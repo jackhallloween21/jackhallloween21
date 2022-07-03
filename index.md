@@ -264,7 +264,8 @@ alt="">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsDblIUMTkw3SJoWWt4Uaw3kDiYGMxCch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<rssapp-carousel id="HBjtXA9MRHy9W8MP"></rssapp-carousel>
+<rssapp-carousel id="HBjtXA9MRHy9W8MP">
+</rssapp-carousel>
 <script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
 
 # Halloween 🎃🦇👻
