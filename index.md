@@ -360,8 +360,8 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 ![Image](/hand-drawn-halloween-background_23-2149064303.webp)
 
 ## My WEBSITE QR Code
- <p align="right"> <img src="https://imgur.com/MV33iTa.jpg" width="100"> </p>
- <p align="left">    <img src="https://imgur.com/0d3NkAw.jpg" width="50"> </p>
+ <p align="right"> <img src="https://imgur.com/MV33iTa.jpg" width="500"> </p>
+ <p align="left">    <img src="https://imgur.com/0d3NkAw.jpg" > </p>
    
 ## For Query
 <form
