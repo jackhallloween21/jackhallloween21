@@ -358,47 +358,49 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> 
 </p>
 
-
-
+<div class="row">
+  <div class="column">
+    <img src="https://imgur.com/0d3NkAw.jpg">
+    <img src="https://imgur.com/MV33iTa.jpg">
+    <img src="https://imgur.com/IVhgMEm.jpg">
+    <img src="https://imgur.com/TI21sWo.jpg">
+    <img src="https://imgur.com/ekJ73n5.jpg">
+    <img src="https://imgur.com/hwvplAh.jpg">
+    <img src="https://imgur.com/iY4i5kQ.jpg">
+  </div>
+  <div class="column">
+    <img src="underwater.jpg">
+    <img src="ocean.jpg">
+    <img src="wedding.jpg">
+    <img src="mountainskies.jpg">
+    <img src="rocks.jpg">
+    <img src="underwater.jpg">
+  </div>
+ 
 ![Image](/hand-drawn-halloween-background_23-2149064303.webp)
 
 
 ## For Query
-<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-<script>
-  /* paste this line in verbatim */
-  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-  /* customize formbutton below*/     
-  formbutton("create", {
-    action: "https://formspree.io/f/xbjwvbrp",
-    title: "How can we help?",
-    fields: [
-      { 
-        type: "email", 
-        label: "Email:", 
-        name: "email",
-        required: true,
-        placeholder: "your@email.com"
-      },
-      {
-        type: "textarea",
-        label: "Message:",
-        name: "message",
-        placeholder: "What's on your mind?",
-      },
-      { type: "submit" }      
-    ],
-    styles: {
-      title: {
-        backgroundColor: "gray"
-      },
-      button: {
-        backgroundColor: "gray"
-      }
-    }
-  });
-</script>
-
+<form
+  action="https://formspree.io/f/xbjwvbrp"
+  method="POST"
+  enctype="multipart/form-data"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <label>
+    Your file:
+   <input type="file" name="upload">
+   </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
 ## Light mode Sun or Dark mode Moon
 <picture>
