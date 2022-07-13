@@ -358,6 +358,8 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> 
 </p>
 ![Image](/hand-drawn-halloween-background_23-2149064303.webp)
+
+### Collection of few Wallpapers
 <div class="row">
   <div class="column">
     <img src="https://imgur.com/0d3NkAw.jpg">
@@ -375,9 +377,6 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <img src="https://imgur.com/MhFi1Q5.jpg">
   </div>
  
- 
-![Image](/hand-drawn-halloween-background_23-2149064303.webp)
-
 
 ## For Query
 <form
