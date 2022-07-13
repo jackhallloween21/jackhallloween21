@@ -367,8 +367,6 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <img src="https://imgur.com/ekJ73n5.jpg">
     <img src="https://imgur.com/hwvplAh.jpg">
     <img src="https://imgur.com/iY4i5kQ.jpg">
-  </div>
-  <div class="column">
     <img src="https://imgur.com/N9mY35H.jpg">
     <img src="https://imgur.com/zyPtdMS.jpg">
     <img src="https://imgur.com/LjXoOye.jpg">
