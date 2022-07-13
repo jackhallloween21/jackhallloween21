@@ -369,13 +369,14 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <img src="https://imgur.com/iY4i5kQ.jpg">
   </div>
   <div class="column">
-    <img src="underwater.jpg">
-    <img src="ocean.jpg">
-    <img src="wedding.jpg">
-    <img src="mountainskies.jpg">
-    <img src="rocks.jpg">
-    <img src="underwater.jpg">
+    <img src="https://imgur.com/N9mY35H.jpg">
+    <img src="https://imgur.com/zyPtdMS.jpg">
+    <img src="https://imgur.com/LjXoOye.jpg">
+    <img src="https://imgur.com/ZTu632L.jpg">
+    <img src="https://imgur.com/FSWb0Dd.jpg">
+    <img src="https://imgur.com/MhFi1Q5.jpg">
   </div>
+ 
  
 ![Image](/hand-drawn-halloween-background_23-2149064303.webp)
 
