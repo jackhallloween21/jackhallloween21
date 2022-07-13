@@ -408,6 +408,8 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <img src="https://imgur.com/FSWb0Dd.jpg">
     <img src="https://imgur.com/MhFi1Q5.jpg">
   </div>
+
+<font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br />
  
 <a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=4abthredxqdjnkpgdgem6c7abkcx2ljf" border="0" title="hit counter" alt="hit counter"></a>
    
