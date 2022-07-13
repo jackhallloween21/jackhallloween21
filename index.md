@@ -361,7 +361,7 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 
 ## My WEBSITE QR Code
  <p align="right"> <img src="https://imgur.com/MV33iTa.jpg" width="100"> </p>
- <p align="left">    <img src="https://imgur.com/0d3NkAw.jpg"> </p>
+ <p align="left">    <img src="https://imgur.com/0d3NkAw.jpg" width="50"> </p>
    
 ## For Query
 <form
