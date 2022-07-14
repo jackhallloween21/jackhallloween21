@@ -110,6 +110,8 @@
 
 
 <marquee behavior="scroll" direction="left"><img src="https://imgur.com/bzsF4S9.gif" width="94" height="88" alt="Swimming fish" /></marquee>
+<marquee behavior="alternate"><img src="https://imgur.com/fTzsRrS.gif" width="94" height="88" alt="Swimming fish2" /></marquee>
+<marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="">Its My Fish</marquee>
 
 ![GitHub Snake dark](/github-contribution-grid-snake.svg)
 
