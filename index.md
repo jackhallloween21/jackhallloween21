@@ -236,7 +236,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
   
- # _Some of my github hosted websites_: (I didn"t built them found them on some sites like dcoder,codepen)
+ # _Some of my github hosted websites_: (I didn't built them found them on some sites like dcoder,codepen)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  
  ## Click the icons to visit the websites 
