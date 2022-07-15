@@ -63,7 +63,7 @@
 <br>
 <br>
 
-## logos:
+## Logos
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
@@ -239,7 +239,7 @@
  # _Some of my github hosted websites_: (I didn"t built them found them on some sites like dcoder,codepen)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  
- ## *** Click the icons to visit the websites ***
+ ## Click the icons to visit the websites 
  
   <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="https://i.imgur.com/3jOId8o.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock** [![Website 3D Cube Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/clock-3D-Cubic/)
  
