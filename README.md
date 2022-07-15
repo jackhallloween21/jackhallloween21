@@ -136,6 +136,7 @@
 ## Moon phase in real time 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
 
