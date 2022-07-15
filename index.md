@@ -46,7 +46,7 @@
 </a>
 
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
-
+![](https://komarev.com/ghpvc/?jackhallloween21&style=plastic)
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
  
 - 😄 Pronouns: ...HE HIS HIM 
