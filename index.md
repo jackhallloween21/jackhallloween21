@@ -50,6 +50,7 @@
  
 - 😄 Pronouns: ...HE HIS HIM 
 - ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cF0dROlMOK5uNZtivgu50?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
  
 # Dev Card
 <a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=8ma" width="400" alt="Jack Halloween's Dev Card"/></a>
