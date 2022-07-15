@@ -260,6 +260,14 @@
 src="Jack_Hallloween21.png"
 alt="">
  
+ ## Speedtest
+ <!--OST Widget code start--><div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="//openspeedtest.com/Get-widget.php"></iframe></div></div>Provided by  <a href="http://openspeedtest.com">OpenSpeedtest.com</a></div><!-- OST Widget code end -->
+
+<div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="https://www.metercustom.net/plugin/"></iframe></div></div>Provided by <a href="https://www.meter.net">Meter.net</a></div>
+ 
+ ## Device Info
+ <iframe loading="lazy" src="https://www.deviceinfo.me/" name="Device Info" scrolling="No" height="4096px" width="2160px" style="border: none;"></iframe>
+ 
  # Youtube Video (Installing Windows Subsystem with Magisk Manually)
 [![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
 
