@@ -115,6 +115,8 @@
 ## Sound Cloud (Imran Khan)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/108014571&color=%233cbfee&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/imrankhanworld-1" title="ImrankhanWorld" target="_blank" style="color: #cccccc; text-decoration: none;">ImrankhanWorld</a> · <a href="https://soundcloud.com/imrankhanworld-1/sets/unforgettable" title="Imran Khan - Unforgettable (2009)" target="_blank" style="color: #cccccc; text-decoration: none;">Imran Khan - Unforgettable (2009)</a></div>
 
+### Last FM
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)
 
 <marquee behavior="scroll" direction="left"><img src="https://imgur.com/bzsF4S9.gif" width="94" height="88" alt="Swimming fish" /></marquee>
 <marquee behavior="alternate"><img src="https://imgur.com/fTzsRrS.gif" width="94" height="88" alt="Swimming fish2" /></marquee>
