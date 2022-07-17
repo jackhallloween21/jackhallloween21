@@ -438,10 +438,10 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <img src="https://imgur.com/MhFi1Q5.jpg">
   </div>
 
-<font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br />
+<font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=4abthredxqdjnkpgdgem6c7abkcx2ljf" border="0" title="hit counter" alt="hit counter"></a>
  
-<a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=4abthredxqdjnkpgdgem6c7abkcx2ljf" border="0" title="hit counter" alt="hit counter"></a>
- 
- <font color = "green" face = "Times New Roman" size = "5">Website View Counter:</font><br />
+ <font color = "green" face = "Times New Roman" size = "5">Website View Counter:</font><br/>
 <a href="https://www.freecounterstat.com" title="free web counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=jt2fnmsbrypcdy6ltr7s92779mx6fj6y" border="0" title="free web counter" alt="free web counter"></a> 
 
+<iframe src="https://player.vimeo.com/video/308093995?h=d87b2d4def" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/308093995">360 camera video test</a> from <a href="https://vimeo.com/billyyoon">Billy Yoon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
