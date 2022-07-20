@@ -264,8 +264,9 @@
    
   <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/WindowsSimulatorTools/)
   
- *HTML Editor: https://bit.ly/3IPMcmQ* 
+ ## HTML Editor: 
  [![HTML Editor](https://imgur.com/3dxcACf.jpg)](https://jacksparrow90.github.io/htmleditor-unblocked/)
+ URL: https://bit.ly/3IPMcmQ 
  
   <a href="https://jackhallloween21.github.io/Other-Github-Hosted-Project-Links/" target="blank"><img align="center" src="https://imgur.com/wwwtsIy.png" alt="Index link and github project" height="150" width="150" /></a> **Index Links and Other Github hosted Project**
   
