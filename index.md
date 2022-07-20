@@ -264,7 +264,17 @@
    
   <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/WindowsSimulatorTools/)
   
+ *HTML Editor: https://bit.ly/3IPMcmQ* 
+ [![HTML Editor](https://imgur.com/3dxcACf.jpg)](https://jacksparrow90.github.io/htmleditor-unblocked/)
+ 
   <a href="https://jackhallloween21.github.io/Other-Github-Hosted-Project-Links/" target="blank"><img align="center" src="https://imgur.com/wwwtsIy.png" alt="Index link and github project" height="150" width="150" /></a> **Index Links and Other Github hosted Project**
+  
+# Unblocked-X - Unblocked Games
+[![Readme Quotes](https://imgur.com/2B52rzt.jpg)](https://unblocked-x.com/)
+
+* Unblocked-X is a game library, filled with unblocked games for public/school networks, with a great moderation and developper team. Unblocked-x is made for people whose networks block games websites. These games include popular titles like "Friday Night Funkin". To play these games, you simply have to watch a 5 second adfoc.us ad, and you can play the game after that. All of the games in this library are safe, as they are sourced from itch.io, a popular games website. More games will be added progressively. Enjoy the free games! *
+** Unblocked X gives you access to the best free games from all over the world. Enjoy the most popular games for free with no restrictions, you will be able to play it from any country.
+- The Dev Team **
   
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
