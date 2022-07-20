@@ -407,7 +407,6 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 <form
   action="https://formspree.io/f/xbjwvbrp"
   method="POST"
-  enctype="multipart/form-data"
 >
   <label>
     Your email:
@@ -417,10 +416,6 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     Your message:
     <textarea name="message"></textarea>
   </label>
-  <label>
-    Your file:
-   <input type="file" name="upload">
-   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
