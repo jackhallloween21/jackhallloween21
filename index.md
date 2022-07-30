@@ -253,10 +253,10 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
   
- # Some of my github hosted websites (I didn't built them found them on some sites like dcoder,codepen)
+ <h3> Some of my github hosted websites (I didn't built them found them on some sites like dcoder,codepen) </h3>
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  
-  ## Click the icons to visit the websites 
+  <h4> Please Click the icons to visit the following websites: </h4>
  
   <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="https://i.imgur.com/3jOId8o.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock** [![Website 3D Cube Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/clock-3D-Cubic/)
  
