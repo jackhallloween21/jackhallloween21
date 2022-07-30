@@ -359,7 +359,16 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
 <rssapp-ticker id="Z2qmcv2Re21wrLZK"> </rssapp-ticker>
 <script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 
-
+ # Database generators
+One of the following database:
+- For **Redis** (tutorial [here](./resources/extras/redistut.md))
+  - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/).
+  - `REDIS_PASSWORD` - Redis endpoint Password, from [redislabs](http://redislabs.com/).
+- For **MONGODB**
+  - `MONGO_URI` - Get it from [mongodb](https://mongodb.com/atlas).
+- For **SQLDB**
+  - `DATABASE_URL`- Get it from [elephantsql](https://elephantsql.com).
+ 
 # Halloween 🎃🦇👻
 
 
