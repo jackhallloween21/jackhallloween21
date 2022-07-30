@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages 
+## Welcome to GitHub Pages
 
-  <link rel="shortcut icon" type="image/x-icon" href="https://imgur.com/NSBf7sf.png" />
-
+<link rel="shortcut icon" type="image/x-icon" href="https://imgur.com/NSBf7sf.png">
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
