@@ -1,11 +1,11 @@
 ## Welcome to GitHub Pages 
-
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="https://imgur.com/NSBf7sf.png" />
+</head>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/pbopbMv.png" />
-</head>
+
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 <img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" />
 
