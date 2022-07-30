@@ -289,11 +289,20 @@
 <h4><b>4.After that! Let the code run, It will give you 1GB per 10 Seconds. But you have to update the value in the app! To do it<br>Go to Settings > Advanced > Connection options and press on Reset security keys</b></h4>
 <h4><b><i>❗You have to manually update the Value in the app as written in above step❗</i></b></h4>
   
+# Session String
+
+ Different ways to get your `SESSION` for telethon bots
+ [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+ 
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
 src="Jack_Hallloween21.png"
 alt="">
 
+ # License
+[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
+Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+ 
 # ASCII Text Art Generator
 
 ```
