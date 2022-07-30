@@ -106,6 +106,8 @@
  [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
  
  
+ ![GitHub Snake dark](/github-contribution-grid-snake.svg)
+ 
 ![spotify-github-profile](/icons/default.svg)
 
 ## Spotify Music
@@ -124,7 +126,6 @@
 <marquee behavior="alternate"><img src="https://imgur.com/fTzsRrS.gif" width="94" height="88" alt="Swimming fish2" /></marquee>
 <marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="">Its My Fish</marquee>
 
-![GitHub Snake dark](/github-contribution-grid-snake.svg)
 
 # AI Bots 🤖
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
@@ -302,10 +303,7 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
  [https://fsymbol.com/](https://fsymbols.com/generators/carty/)
  Ⓢⓐⓜⓟⓛⓔ Ⓣⓔⓧⓣ
  🆂🅰🅼🅿🅻🅴 🆃🅴🆇🆃
- ᗷᙓ ᗢᖇᓮᘐᓰﬡᗩᒪ
-ℬ℮ ¢◎øł
-Bᴇ ʏᴏᴜʀsᴇʟғ
-Z̸̠̙̿͋̒ä̵̞̞͓́̚̚l̴͚͖͖̔̽͝g̴̟̻͖̀̚͘o̸̺͇̦͐̀͋ t̵̪̟̪́͒e̵̢̞̾̚͜x̸̦̻͕́͌͝t̸͕̞̙̒͛̓ g̴̡͕̞͛́͛e̵̞͙̟̓͛̚n̴͚͎̠͛̿͑e̴̞̘͒͝r̵̡̡̢͐̔̓a̵͚̘͓̐̽̀t̴̢̪͙̿͑͋o̸̻̪̺̔͒r̸̞̫̚͜͠ f̸̘̝̘̚̚͝o̸͇̺̔͜͠r̴̙͇̙͊̈́͝ c̵̠̼͍͋̽͠u̵̢͕͓͒̾͠r̸͕̟̟͒̓̿s̴̢̞̔͘͜͝e̴͚̺̿̒̔͜d̴͕̙̿͘͜ t̵͚͙͊͘͝e̴̫̼͙͌́x̴͙̺̙͊͆͠ẗ̸̼͍͕́̒̚ l̵̻͕̐̽̚e̴̝͉̘̐̚͝ț̸̢̦̓̐͠t̴͎̟͍͑͠͝e̵̝͕͚͒͝͝r̸̼͇͚̓͌s̸̺͕̈́͋͠ i̸͔͉͇͛͝s̴̢͇̼̈́̚̚ a̴̢͍͚̿̈́̈́ ć̸͔͓́͜r̴̢͍͌̓e̸͖̟̙͋̓̕e̵̟̙͆̕͜p̵͙͇̫͑͘y̴̞͙̔̀̽ t̵̟͕͍̔̚̕é̴̢͎̦̓̀x̵͕̠͙͐͠͝t̸̡͕̼͑̕͠ d̴͎͇͎̿͒͊e̴̡͙͔͑́̈́s̴͇̫͛̈́̚͜t̸̼̼͕̐͠r̴͕̪͊͛͝o̸̡̟̻̔͒͆y̸̫̦͖̐̽͝ë̴̪͎́̔͛r̸̡̡̦͋͝͝ t̴̫̦͕̐͆͠h̸̦͔͉͋̐̕a̵̡͖̓͑͠t̴͕̠̘͊̈́͘ w̵͓͕̫̾̐͠i̵̝͖͕͛̕͠l̴̟̼̈́͐̓͜l̴̞͉͑̔͜͠ m̸̡̺͎̔̐̕a̵͕̝̫͋̔̒k̸̘̟͔̿̒̕e̴͉͆̔͑͜͜ ÿ̵͍̘́͠͝ò̸̡͇͕͑͝u̵̠̝͖͒̈́̓r̸͓̫̟͛̀̒ t̴̡̻͓̿̐͊e̸͎͔͛̈́̚x̵̡͕͕̓̓̿t̸̘͔͇͛͋̈́ g̵̢̙͕̒̐̽r̵͖̝͋̒́͜o̸̼̝͉̒̔̿w̸̠̝͛͋̈́ t̴̘̘̞̓̈́a̸͓͉̞͆͑͌l̵͕͉͒̓͛l̵͉͖̠̐̕͠ a̵̡͔̝͐͘ń̵̝̙̓̓d̵͚̪͓́̈́͌ g̵͚̠͙͒͘͠l̸̺͖͓̓͘͠i̵͖͖͔̓͒͑t̸̼͉̝͐͝c̴͖̝͆̿̓͜h̸̢̢͍͌̔̚e̵͙̻͉͋̓͝d̸͙͎͛̈́͑͜ a̸̘̫̐̐͊d̸̝̪̫͛͛̚d̵͔͖̘̓̽͠i̵͕͉͐̾͌n̵̢̡̠̽͊g̵͕̈́̿͆͜ t̴̘̟̻̓͠͠e̵̞̺̫̓͝x̵͚̝͝͝t̵̼͖̓̓̕ s̸̼̻̝͐̒͒ÿ̴̙͓́͛̈́͜m̵̝̫̦̔̒͛b̸̢̼̫͋͒͠o̵͍̘͔̒͑͠l̵̼̺͎͘͝͝ ș̵̟̙͆͝͝c̴͍͎̐͆̈́r̴̻̫͒͛̀ä̸̫͖͉́̽̚t̸̡͓̘̓̾͛c̵̙͙̒̕͝h̴͉͔͍͑̈́͘y̵̦̪̼͑͒͝ n̴͕͎̦̿͘͝ö̴͍̦́̾̿͜ḯ̵̻̙̫́̒s̸̪̫̘̓́͝e̴͇͔̠̐͒͊.̴̫̘͚̈́͊͐ D̸̼͕͙̈́͌i̵͇͕͇̔̈́̀s̸̟̟̦̈́͘͝t̴͚̝̒͑́o̵̝̙̝̔͝r̸͓̘̟̿̒̚t̸̢̡̟̽̈́̿e̴̡̢̺͊̈́̾d̸͓̞̺͆̓̾ t̸̢͕͉̀̿͊e̸͙͙̺̒͛̈́ẍ̸͇͍͉́̈́͠t̸̙̪͖͐̈́͠,̸̫̻̞̽͆͝ a̴̞̦͎̓̾͝k̵͖͙̘͒̓a̸̼͓͚̒͆̽ c̸͉̠͙͐̓̕u̴̟͕͇͆̈́̕r̸̡̢̠͛͒͋s̵̺͖̝͋̓̈́e̸͎͍̪̒̈́̿d̸̙̫̫̽̈́͠ t̸͕͙̺͋̕͘é̵̢͙͆͒x̸̢͍͘͜͠t̴̢͚͓͆̔̓ a̴̫̙͒̚͜͝n̵̢͉̟͐̈́͝d̴̠̟͚͘͝ g̴̢̻̪̿̔l̴̡͉͑̿̽i̸͚͍͛͑͛͜t̵̢̫̫̀͛c̸̪̻̙͒̕̚h̴̪̻͔̀̿͘ t̸̝͎̐̔̿͜e̴͓̻̻̔̈́̒ẍ̴͓͖́͌͋t̴̟͕͐̔͌͜ ë̴̫͓́͊͜͠f̴͇̼̠̀̾f̸͚̟̾̿͝e̸͉̼̟̓̈́̓c̵͙̼̠̕̚͘t̴̢̫͇̔̾̕ g̵̦̠͒̽͜e̵̪͔͊͐͌͜n̸̞̺͎͋̿̔è̸̟͔̟̈́̀r̵̟̫̫͘͠a̴̝̺̟͒͛͑ẗ̸͎̞́͌̿͜ò̵͓̻̿̽͜r̴̢̢̺̔́͝ i̸̺͚̻͋̀͠s̵̘͎̈́͊̓͜ ö̴̼͖́͌r̵͚̟͍͛́͆i̸̪̘͇͊͝͠g̴͍̙̫̿̚i̴̠̙̪̔͊̓n̵͖̫͚͐̽̓a̸͔͚̓̈́͘͜l̵̦̙̈́͒̕l̵͚̞͉͋͋y̴͇͎͚͐͊͊ k̴̢̟͙͋̿̕n̵̙̺̠̈́͑̈́o̵̡͍̘͑͛͠ẅ̴̼̻͚́̚n̸͖̘͔̓͘͝ a̴̢̢̠͑̿͆s̴͓͙͉͆͌͐ Z̴͕͚̻̒͋̔҉̵̟̼͚̓̀͌A̸̺̺̼̐͝҉̵̙̟̙̿͌̐L̸̝̘͙͌͝͠҉̴͓̺̪̓͐̈́G̸̫̼̈́͘͝҉̸̫̝͎̓̐͘O̴̝̦̝̔̈́̕̚̕̚.̵͕͉̽̀̚ Z̵̘͇̪͊͊̐a̸̙͖̔̔͊ĺ̴̺͚̙̔̽g̴͇̪̙̈́̓̿o̴̢̡͙͝͠ t̴̡̻̠̀̾͠é̵̟͖̔͝x̸͎͇̼͌͘͝t̵̡̟̙͑͐̚ d̵̡͉̔͐͜͠e̴͖͍̞͐͌̕m̵̝̝̫̒͌̓o̴͎͖̓̒̒͜n̸͕͉̙͒͑̔i̵͇͉͒̕̚c̴̢̟͉̓̒͘ t̴̺̦͛̓e̸̫͓̐͐̓x̵͎͔̫͘͝t̵͓͙̀͆̕͜ d̵͙̙͉͊͋̽i̴̝͕͎͛͒͠s̸̘͔̟͝͝t̵͎͖̫͆͛͝o̵̢̦͍̔̾͑r̸͙̪̼͒̈́̚t̴̟͚͚͛͘e̵͉͖͉͛͝͠r̵͉̼̘̾̈́ i̵̞͙͎̓̾͘s̵̼͉͕̐̈́ b̴̫̼͖̾̿̚a̸̡̡̾͊̾s̴͍͓̫̈́̽͑e̴̻̫͛̿͒d̸͇̻̝̓̿̽ o̴͔͖͇̒͊͐n̸̙̺̼͋̈́͠ a̸͉͙͌͜͝ m̴͚͊̚͜͝e̵̡̪̞̾̒̿m̸̙͙̫͛̈́͠e̵̡͙̫̿̐̿ w̴͎̺̻̐͌ḧ̸͔͕͕́̾͆e̵̫̫͉͒̔͝r̴̦͚͆̿̚e̴͍̦̫̾̐̐ p̴͇͙͇͌̿e̴̪̘̞͆͒̈́o̵̻͉͙͛͑͝p̴̡̢͙̐͌͆l̴̺͍͊͠͝e̴̫͚̔̈́͜͠ a̴̠̦͚͐̈́̕d̵͙͇̺̓͛d̵͕͍̟̀͊͝ s̴͍͖̼͛̚u̴͕̦͇̔͝͝d̸̡͍̙̾̔̓d̴͔͇͉́̒e̵̼̘̟͛̀̽ǹ̸̘͎̘̔̈́ c̵̻̺̫̓̚͠r̴͉̙͉͊͒̕e̵̡̼͇͌̈́̿e̸̢̞̘͆̀p̵̟̺̼͌͘y̴̪̙̞͆͐͌ d̵̺̠̘͑͘a̵͓̝̔̓̈́r̴͙̟͍͌̽k̵͙̟̔̔͜͠ v̴̪̠͖͒͋͝o̵̞͍͎͊͆̚i̵̢̙̙̓͋͝d̴͉͎̿͛͜ i̸̠͕̼̓̓̚n̸̡̢̘̓͒͠ț̵̡͎͊͒o̵̢̢͓͑̀̈́ i̵͍͍͉͆̽̚m̵̦̺͔͑͛̕á̸͔͖͕͆͝g̸̟̙͕͆̓̓e̸̺͕͌͠s̸̝͚͓̿̿̒ a̸͉̘̪̐͛̕n̴̠͔͍͑̚͝d̵̡̝̞͒̓̈́ ẗ̸̠͔̻́́́è̸̠̘̞͐x̵͍̪͍̽̀t̸͓͚͙͌͑ (̸̡̝̦͋͝͝a̴͎̘̺͆͆͆r̸̡̦͇͆̒͠t̸̫̪̺̓͋̕ i̴̡̫̙̾͊n̵̡͔͎̓͠͠ g̵̞͚͑̀͜͠e̴̞̺̝͐́n̴͕̪͑̓͠e̴̢͇̽͠r̴̞̺̝̈́͊à̴͍͓͙͒̀l̵̻̠͕̽͋͋)̵̻̙̟͆͘͝.̸͙̼̟͌̾̈́
+ 
 
 # Multiple Speedtest
  
@@ -323,13 +321,13 @@ Z̸̠̙̿͋̒ä̵̞̞͓́̚̚l̴͚͖͖̔̽͝g̴̟̻͖̀̚͘o̸̺͇̦͐̀͋ t̵́�
 <div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="https://www.metercustom.net/plugin/"></iframe></div></div>Provided by <a href="https://www.meter.net">Meter.net</a></div>
  
  
- # Youtube Video (Installing Windows Subsystem with Magisk Manually)
-[![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
+ # Youtube Video 
 
+[![MY Youtube](https://imgur.com/ySthxPj.jpg)](https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsDblIUMTkw3SJoWWt4Uaw3kDiYGMxCch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+[![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
 <rssapp-imageboard id="Z2qmcv2Re21wrLZK"> </rssapp-imageboard>
 <script src="https://widget.rss.app/v1/imageboard.js" type="text/javascript" async></script>
 
