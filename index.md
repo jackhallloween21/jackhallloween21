@@ -275,6 +275,20 @@
 ** Unblocked X gives you access to the best free games from all over the world. Enjoy the most popular games for free with no restrictions, you will be able to play it from any country.
 - The Dev Team **
   
+ # Unlimited Cloud flare WARP+ using google colab
+ [Deployment via github](https://www.caduceus.ml/WARP-UNLIMITED-ADVANCED/)
+ <h4><b>0.First Get your WARP/WARP+ ID by going into Settings > Advanced > Diagnostics and copy the ID under <code>CLIENT CONFIGURATION</code> section</b></h4>
+<img src="https://imgur.com/JpII9UQ.jpg" height="50%" width="40%" alt="1">
+<h2><b>🕹️ Run on Google Colab</b></h2>
+<h4><b>1.First Open this Code on Google Colab:<a href="https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb" alt="Open-Colab"> Open Code!</a>
+ [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb)
+<h4><b>2.Now Run the Timeout Preventer to prevent Google Colab from getting timeout</b></h4>
+<img src="Img/2.png" alt="2">
+<h4><b>3.Then Run The WARP+ (1.1.1.1) Code and Enter your Warp ID (Also Hit Enter after it!) as shown in the Image</b></h4>
+<img src="Img/3.png" alt="3">
+<h4><b>4.After that! Let the code run, It will give you 1GB per 10 Seconds. But you have to update the value in the app! To do it<br>Go to Settings > Advanced > Connection options and press on Reset security keys</b></h4>
+<h4><b><i>❗You have to manually update the Value in the app as written in above step❗</i></b></h4>
+  
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
 src="Jack_Hallloween21.png"
