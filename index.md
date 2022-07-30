@@ -248,7 +248,7 @@
  # Some of my github hosted websites (I didn't built them found them on some sites like dcoder,codepen)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  
- # Click the icons to visit the websites 
+  ## Click the icons to visit the websites 
  
   <a href="https://jackhallloween21.github.io/clock-3D-Cubic/" target="blank"><img align="center" src="https://i.imgur.com/3jOId8o.png" alt="3D_Cube_Clock" height="250" width="250" /></a> **3D Cubic Clock** [![Website 3D Cube Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/clock-3D-Cubic/)
  
@@ -276,7 +276,8 @@
 - The Dev Team **
   
  # Unlimited Cloud flare WARP+ using google colab
- [Deployment via github](https://www.caduceus.ml/WARP-UNLIMITED-ADVANCED/)
+ <p>
+   [Deployment via github](https://www.caduceus.ml/WARP-UNLIMITED-ADVANCED/)
  <h4><b>0.First Get your WARP/WARP+ ID by going into Settings > Advanced > Diagnostics and copy the ID under <code>CLIENT CONFIGURATION</code> section</b></h4>
 <img src="https://imgur.com/JpII9UQ.jpg" height="50%" width="40%" alt="1">
 <h2><b>🕹️ Run on Google Colab</b></h2>
@@ -288,7 +289,7 @@
 <img src="https://imgur.com/qbNYoQE.png" alt="3">
 <h4><b>4.After that! Let the code run, It will give you 1GB per 10 Seconds. But you have to update the value in the app! To do it<br>Go to Settings > Advanced > Connection options and press on Reset security keys</b></h4>
 <h4><b><i>❗You have to manually update the Value in the app as written in above step❗</i></b></h4>
-  
+  </p>
 # Session String
 
  Different ways to get your `SESSION` for telethon bots
