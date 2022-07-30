@@ -312,7 +312,7 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
  
  <iframe src="https://speed.measurementlab.net/#/" style="border:0px #ffffff none;" name="Mlab" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
- <iframe src="https://www.speakeasy.net/speedtest/" style="border:0px #ffffff none;" name="speakeasy" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400%" width="600%" allowfullscreen></iframe>
+ <iframe src="https://www.speakeasy.net/speedtest/" style="border:0px #ffffff none;" name="speakeasy" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
  <iframe src="https://fast.com/" style="border:0px #ffffff none;" name="https://fast.com/" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
