@@ -118,9 +118,10 @@
 ### Last FM
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)
 
+# Marquee animated Fish
 <marquee behavior="scroll" direction="left"><img src="https://imgur.com/bzsF4S9.gif" width="94" height="88" alt="Swimming fish" /></marquee>
 <marquee behavior="alternate"><img src="https://imgur.com/fTzsRrS.gif" width="94" height="88" alt="Swimming fish2" /></marquee>
-<marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="">Its My Fish</marquee>
+
 
 
 # AI Bots 🤖
@@ -278,7 +279,9 @@
 <img alt="" width="900"
 src="Jack_Hallloween21.png"
 alt="">
- ## ASCII Text Art Generator
+
+# ASCII Text Art Generator
+
  
 ─────────────────────────▄▀█▀█▀▄
 ────────────────────────▀▀▀▀▀▀▀▀▀
@@ -291,12 +294,14 @@ alt="">
 █░░▀░▀░ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀ ▀░░░▀ ▀▀▀ ░█
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-    New to text art?    
+New to text art?    
 Try typing text in a text area above to ｍａｋｅ 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱𝔦𝔫𝔤 fonts 𝓌𝒾𝓉𝒽 Facebook font generator.
 
 Copy and paste cool symbols from below. Beautify your statuses, comments, messages, Instagram bio and your general texting life. Make your ideas even more cute.
 <iframe src="https://fsymbols.com/" style="border:0px #ffffff none;" name="text art" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+ 
  [https://fsymbol.com/](https://fsymbols.com/generators/carty/)
+ 
  Ⓢⓐⓜⓟⓛⓔ Ⓣⓔⓧⓣ
  🆂🅰🅼🅿🅻🅴 🆃🅴🆇🆃
  
@@ -330,8 +335,6 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
 <rssapp-ticker id="Z2qmcv2Re21wrLZK"> </rssapp-ticker>
 <script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-6ffeb55c-b69f-46f8-a8f9-53e127e27021"></div>
 
 # Halloween 🎃🦇👻
 
@@ -472,7 +475,9 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
   </div>
 
 <font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=4abthredxqdjnkpgdgem6c7abkcx2ljf" border="0" title="hit counter" alt="hit counter"></a>
- 
+
+<marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="">Its My Fish</marquee>
+
  <font color = "green" face = "Times New Roman" size = "5">Website View Counter:</font><br/>
 <a href="https://www.freecounterstat.com" title="free web counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=jt2fnmsbrypcdy6ltr7s92779mx6fj6y" border="0" title="free web counter" alt="free web counter"></a> 
 
