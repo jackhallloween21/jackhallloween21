@@ -276,13 +276,14 @@
 - The Dev Team **
   
  # Unlimited Cloud flare WARP+ using google colab
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb)
  <p>
    [Deployment via github](https://www.caduceus.ml/WARP-UNLIMITED-ADVANCED/)
  <h4><b>0.First Get your WARP/WARP+ ID by going into Settings > Advanced > Diagnostics and copy the ID under <code>CLIENT CONFIGURATION</code> section</b></h4>
 <img src="https://imgur.com/JpII9UQ.jpg" height="50%" width="40%" alt="1">
 <h2><b>🕹️ Run on Google Colab</b></h2>
-<h4><b>1.First Open this Code on Google Colab:<a href="https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb" alt="Open-Colab"> Open Code!</a>
- [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb)
+<h4><b>1.First Open this Code on Google Colab:<a href="https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb" alt="Open-Colab"> Open Code!</a></b></h4>
+
 <h4><b>2.Now Run the Timeout Preventer to prevent Google Colab from getting timeout</b></h4>
 <img src="https://imgur.com/AzQdHSz.png" alt="2">
 <h4><b>3.Then Run The WARP+ (1.1.1.1) Code and Enter your Warp ID (Also Hit Enter after it!) as shown in the Image</b></h4>
