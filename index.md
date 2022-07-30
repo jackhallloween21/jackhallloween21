@@ -295,6 +295,7 @@
  <h2> Session String </h2>
  
  Different ways to get your `SESSION` for telethon bots
+ 
  [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
  
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
