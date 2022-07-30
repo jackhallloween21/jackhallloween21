@@ -290,8 +290,9 @@
 <h4><b>4.After that! Let the code run, It will give you 1GB per 10 Seconds. But you have to update the value in the app! To do it<br>Go to Settings > Advanced > Connection options and press on Reset security keys</b></h4>
 <h4><b><i>❗You have to manually update the Value in the app as written in above step❗</i></b></h4>
   </p>
-# Session String
-
+ 
+ <h2> Session String </h2>
+ 
  Different ways to get your `SESSION` for telethon bots
  [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
  
