@@ -286,7 +286,7 @@ alt="">
  
  # Multiple Speedtest
  
- <a href="https://www.speedtest.net/" target="blank"><img align="center" src="https://imgur.com/jIENIjr.png" alt="Ookla Speedtest" height="250" width="250" /></a>
+ <a href="https://www.speedtest.net/" target="blank"><img align="center" src="https://imgur.com/jIENIjr.png" alt="Ookla Speedtest" height="30 width="40" /></a>
  
  <iframe src="https://speed.measurementlab.net/#/" style="border:0px #ffffff none;" name="Mlab" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
