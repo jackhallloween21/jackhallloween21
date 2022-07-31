@@ -522,12 +522,12 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <img src="https://imgur.com/MhFi1Q5.jpg">
   </div>
 
-<font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=4abthredxqdjnkpgdgem6c7abkcx2ljf" border="0" title="hit counter" alt="hit counter"></a>
+<font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="visit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=6cuelwm2j7kk2ry59cg1qcwmj17dxhty" border="0" title="visit counter" alt="visit counter"></a>
 
 <marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="">Its My Fish</marquee>
 
  <font color = "green" face = "Times New Roman" size = "5">Website View Counter:</font><br/>
-<a href="https://www.freecounterstat.com" title="visit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=6cuelwm2j7kk2ry59cg1qcwmj17dxhty" border="0" title="visit counter" alt="visit counter"></a>
+<a href="https://www.freecounterstat.com" title="free web counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=jt2fnmsbrypcdy6ltr7s92779mx6fj6y" border="0" title="free web counter" alt="free web counter"></a>
  
 
 <iframe src="https://player.vimeo.com/video/308093995?h=d87b2d4def" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
