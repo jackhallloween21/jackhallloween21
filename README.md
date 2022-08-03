@@ -136,6 +136,8 @@
 
 ## Moon phase in real time 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+[![Moonray.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
