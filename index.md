@@ -59,7 +59,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
  
 - 😄 Pronouns: ... I ME HE HIS HIM 
-- ⚡ Fun fact: ... ![spotify-github-profile](/icons/novatorem.svg)(https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc?si=5f2461610e89426f)
+- ⚡ Fun fact: ... [![spotify-github-profile](/icons/novatorem.svg)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc?si=5f2461610e89426f)
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cF0dROlMOK5uNZtivgu50?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
  
 # Dev Card
@@ -124,7 +124,7 @@
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/205680457&color=%2355d2bf&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/imrankhanworld-1" title="ImrankhanWorld" target="_blank" style="color: #cccccc; text-decoration: none;">ImrankhanWorld</a> · <a href="https://soundcloud.com/imrankhanworld-1/imran-khan-unforgettable-200915-qott-ghusian-da" title="Imran Khan - Unforgettable (2009)15 - Qott Ghusian Da" target="_blank" style="color: #cccccc; text-decoration: none;">Imran Khan - Unforgettable (2009)15 - Qott Ghusian Da</a></div>
 
 ### Last FM
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)(https://www.last.fm/)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)](https://www.last.fm/)
 
 # Marquee animated Fish
 <marquee behavior="scroll" direction="left"><img src="https://imgur.com/bzsF4S9.gif" width="94" height="88" alt="Swimming fish" /></marquee>
