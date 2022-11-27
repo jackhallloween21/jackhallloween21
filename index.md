@@ -507,10 +507,31 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 <img src="github_stats.svg">
 
 ### Collection of few Wallpapers
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="https://imgur.com/IVhgMEm.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/TI21sWo.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/ekJ73n5.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 <div class="row">
-   <img src="https://imgur.com/IVhgMEm.jpg">
-    <img src="https://imgur.com/TI21sWo.jpg">
-    <img src="https://imgur.com/ekJ73n5.jpg">
+   
+    
+    <img src="">
     <img src="https://imgur.com/hwvplAh.jpg">
     <img src="https://imgur.com/iY4i5kQ.jpg">
     <img src="https://imgur.com/N9mY35H.jpg">
