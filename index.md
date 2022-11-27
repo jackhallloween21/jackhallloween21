@@ -10,9 +10,9 @@
 <img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" />
 
 - 🔭 I’m currently working on :Telegram Bots,app deployment on heroku,okteto,netlify,free vps.ect
-- 
-- 🌱 I’m currently learning : About Android Custom rom(8-12L) and recovery and kernel , Virtual Machine,Linux, Windows 7-11 (Deveploper Preview), RDP, VNC, MongoDB,Android App Emulation using Android Studio,Telegram Bot,Mac OS or HAckintosh...
-- 
+- 📚 I'm currently doing my B.Tech in Computer Science Engineering.
+- 🌱 I’m currently learning : About Android Custom rom(8-13) and recovery and kernel , Virtual Machine,Linux, Windows 7-11 (Deveploper Preview), RDP, VNC, MongoDB,Android App Emulation using Android Studio,Telegram Bot,Mac OS or Hackintosh...
+- 📱 I'm just noob in everything but I want to learn more about tech.
 - 👯 I’m looking to collaborate on ...(Atleast something important in life)
 - 
 - 💬 tell me some **jokes**                                    
