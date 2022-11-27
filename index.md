@@ -507,6 +507,8 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 <img src="github_stats.svg">
 
 ### Collection of few Wallpapers
+![WallpaperRandomizer](https://unsplash.it/1920/1080?random)
+
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
