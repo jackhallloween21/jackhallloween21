@@ -340,7 +340,7 @@ Try typing text in a text area above to ｍａｋｅ 𝔦𝔫𝔱𝔢𝔯𝔢�
 Copy and paste cool symbols from below. Beautify your statuses, comments, messages, Instagram bio and your general texting life. Make your ideas even more cute.
 <iframe src="https://fsymbols.com/" style="border:0px #ffffff none;" name="text art" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
- [https://fsymbol.com/](https://fsymbols.com/generators/carty/)
+ [!https://fsymbol.com/](https://fsymbols.com/generators/carty/)
  
  Ⓢⓐⓜⓟⓛⓔ Ⓣⓔⓧⓣ
  🆂🅰🅼🅿🅻🅴 🆃🅴🆇🆃
@@ -515,8 +515,32 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <div class="carousel-item">
       <img class="d-block w-100" src="https://imgur.com/TI21sWo.jpg" alt="Second slide">
     </div>
+   <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/hwvplAh.jpg" alt="3rd slide">
+    </div>
+   <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/iY4i5kQ.jpg" alt="4th slide">
+    </div>
+   <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/N9mY35H.jpg" alt="5th slide">
+    </div>
+   <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/zyPtdMS.jpg" alt="6th slide">
+    </div>
+   <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/LjXoOye.jpg" alt="7th slide">
+    </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/ekJ73n5.jpg" alt="Third slide">
+      <img class="d-block w-100" src="https://imgur.com/ekJ73n5.jpg" alt="8th slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/ZTu632L.jpg" alt="9th slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/FSWb0Dd.jpg" alt="10th slide">
+    </div>
+   <div class="carousel-item">
+      <img class="d-block w-100" src="https://imgur.com/MhFi1Q5.jpg" alt="11th slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -528,19 +552,6 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     <span class="sr-only">Next</span>
   </a>
 </div>
-<div class="row">
-   
-    
-    <img src="">
-    <img src="https://imgur.com/hwvplAh.jpg">
-    <img src="https://imgur.com/iY4i5kQ.jpg">
-    <img src="https://imgur.com/N9mY35H.jpg">
-    <img src="https://imgur.com/zyPtdMS.jpg">
-    <img src="https://imgur.com/LjXoOye.jpg">
-    <img src="https://imgur.com/ZTu632L.jpg">
-    <img src="https://imgur.com/FSWb0Dd.jpg">
-    <img src="https://imgur.com/MhFi1Q5.jpg">
-  </div>
 
 <font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="visit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=6cuelwm2j7kk2ry59cg1qcwmj17dxhty" border="0" title="visit counter" alt="visit counter"></a>
 
