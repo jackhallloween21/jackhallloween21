@@ -352,8 +352,6 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
  
  <iframe src="https://speed.measurementlab.net/#/" style="border:0px #ffffff none;" name="Mlab" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
- <iframe src="https://www.speakeasy.net/speedtest/" style="border:0px #ffffff none;" name="speakeasy" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe>
- 
  <iframe src="https://fast.com/" style="border:0px #ffffff none;" name="https://fast.com/" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
  <div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="//openspeedtest.com/Get-widget.php"></iframe></div></div>Provided by  <a href="http://openspeedtest.com">OpenSpeedtest.com</a></div>
@@ -362,9 +360,9 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
 <div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="https://www.metercustom.net/plugin/"></iframe></div></div>Provided by <a href="https://www.meter.net">Meter.net</a></div>
  
  
- # Youtube Video 
+ ### Youtube_Video 
 
-[![MY Youtube](https://imgur.com/ySthxPj.jpg)](https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw)
+[![MY Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsDblIUMTkw3SJoWWt4Uaw3kDiYGMxCch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
