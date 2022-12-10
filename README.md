@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/wallpapersden.com_k-talking-to-the-moon_3840x2160.jpg" />
 </p align="center">
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
+<h2 align="center">Hi <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/waving-hand-joypixels.gif?raw=true" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 <img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" />
 
