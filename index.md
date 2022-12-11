@@ -111,9 +111,9 @@
  
 [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
 [![Bash Shell](https://camo.githubusercontent.com/a7de91b915d8b286dda762e3683d9a1c961692d43f8349d020ecd54634a823cf/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub Snake dark](/github-contribution-grid-snake.svg)](https://snake.io/)]
+[![GitHub Snake dark](/github-contribution-grid-snake.svg)](https://snake.io/)
  
-![spotify-github-profile](/icons/default.svg)
+[![spotify-github-profile](/icons/default.svg)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc?si=5f2461610e89426f)
 
 ## Spotify Music
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZEVXbMWDif5SCBJq?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -506,59 +506,9 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 <img src="github_stats.svg">
 
 ### Collection of few Wallpapers
+<h2>Wallpaper RandomizerX:</h2>
 ![WallpaperRandomizer](https://unsplash.it/1920/1080?random)
-<script src="b.js"></script>
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="https://imgur.com/IVhgMEm.jpg" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/TI21sWo.jpg" alt="Second slide">
-    </div>
-   <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/hwvplAh.jpg" alt="3rd slide">
-    </div>
-   <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/iY4i5kQ.jpg" alt="4th slide">
-    </div>
-   <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/N9mY35H.jpg" alt="5th slide">
-    </div>
-   <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/zyPtdMS.jpg" alt="6th slide">
-    </div>
-   <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/LjXoOye.jpg" alt="7th slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/ekJ73n5.jpg" alt="8th slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/ZTu632L.jpg" alt="9th slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/FSWb0Dd.jpg" alt="10th slide">
-    </div>
-   <div class="carousel-item">
-      <img class="d-block w-100" src="https://imgur.com/MhFi1Q5.jpg" alt="11th slide">
-    </div>
-  </div>
-  <!-- Back and forward buttons -->
-  <a class="Back" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="forward" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
 
-<!-- The circles/dots -->
-<div style="text-align:center">
-  <span class="dots" onclick="currentSlide(1)"></span>
-  <span class="dots" onclick="currentSlide(2)"></span>
-  <span class="dots" onclick="currentSlide(3)"></span>
-  <span class="dots" onclick="currentSlide(4)"></span>
-  <span class="dots" onclick="currentSlide(5)"></span>
-  <span class="dots" onclick="currentSlide(6)"></span>
-</div> 
 <font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="visit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=6cuelwm2j7kk2ry59cg1qcwmj17dxhty" border="0" title="visit counter" alt="visit counter"></a>
 
 <marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="">Its My Fish</marquee>
