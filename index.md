@@ -24,7 +24,7 @@
 
 <iframe src="https://random-memer.herokuapp.com/" style="border:0px #ffffff none;" name="meme" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="500" width="800" allowfullscreen></iframe>
 - 🤔 I’m looking for help with some issues in some repos..
- <img alt="" width="900" src="https://imgur.com/8ZSkEMB.jpg"> </img>
+ <img alt="My Name" width="900" src="https://imgur.com/8ZSkEMB.jpg">
 - 💬 Ask me about ...(Nothing, I am Ultimate Noob)
 - 
 - 📫 How to reach me:
