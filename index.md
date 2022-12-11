@@ -131,7 +131,9 @@
 <marquee behavior="scroll" direction="left"><img src="https://imgur.com/bzsF4S9.gif" width="94" height="88" alt="Swimming fish" /></marquee>
 <marquee behavior="alternate"><img src="https://imgur.com/fTzsRrS.gif" width="94" height="88" alt="Swimming fish2" /></marquee>
 
-
+<img alt="" width="900"
+src="https://imgur.com/8ZSkEMB.jpg"
+alt=""></img></details>
 
 # AI Bots 🤖
 [![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)](https://developer.amazon.com/en-GB/alexa)
