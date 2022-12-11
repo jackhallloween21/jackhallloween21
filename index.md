@@ -24,7 +24,7 @@
 
 <iframe src="https://random-memer.herokuapp.com/" style="border:0px #ffffff none;" name="meme" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="500" width="800" allowfullscreen></iframe>
 - 🤔 I’m looking for help with some issues in some repos..
- <img alt="My Name" width="900" src="https://imgur.com/8ZSkEMB.jpg">
+- 
 - 💬 Ask me about ...(Nothing, I am Ultimate Noob)
 - 
 - 📫 How to reach me:
@@ -34,6 +34,8 @@
 <a href="https://youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lucifermorningstarthedevil69969" height="30" width="40" /></a>
 <a href="https://facebook.com/technohp/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jack.halloween21.techno" height="30" width="40" /></a>
 <a href="https://discord.gg/XEWJ8Yr2AQ"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jack.halloween21s.Server" height="30" width="40" /></a>
+
+<img alt="My Name" width="900" src='https://imgur.com/8ZSkEMB.jpg' title="name">
 
 # Light Theme Icons
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackhalloween21@gmail.com/)
