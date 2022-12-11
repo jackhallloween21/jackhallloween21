@@ -22,7 +22,6 @@
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-<iframe src="https://random-memer.herokuapp.com/" style="border:0px #ffffff none;" name="meme" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="500" width="800" allowfullscreen></iframe>
 - 🤔 I’m looking for help with some issues in some repos..
 - 
 - 💬 Ask me about ...(Nothing, I am Ultimate Noob)
