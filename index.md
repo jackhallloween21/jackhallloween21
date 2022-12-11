@@ -24,7 +24,7 @@
 
 <iframe src="https://random-memer.herokuapp.com/" style="border:0px #ffffff none;" name="meme" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="500" width="800" allowfullscreen></iframe>
 - 🤔 I’m looking for help with some issues in some repos..
-- 
+ <img alt="" width="900" src="https://imgur.com/8ZSkEMB.jpg"> </img>
 - 💬 Ask me about ...(Nothing, I am Ultimate Noob)
 - 
 - 📫 How to reach me:
@@ -130,10 +130,6 @@
 # Marquee animated Fish
 <marquee behavior="scroll" direction="left"><img src="https://imgur.com/bzsF4S9.gif" width="94" height="88" alt="Swimming fish" /></marquee>
 <marquee behavior="alternate"><img src="https://imgur.com/fTzsRrS.gif" width="94" height="88" alt="Swimming fish2" /></marquee>
-
-<img alt="" width="900"
-src="https://imgur.com/8ZSkEMB.jpg"
-alt=""></img></details>
 
 # AI Bots 🤖
 [![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)](https://developer.amazon.com/en-GB/alexa)
