@@ -5,7 +5,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
-
+<img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" /
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 <img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" />
 
@@ -49,7 +49,7 @@
   </a>
   
   <a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw">
- <img align="center" alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC-5-P2ShRYIis_HItg8YsWw&key=AIzaSyBUTJFpgm19ko9RGJGC4xGiaJHMHj6vk48"/>
+ <img align="center" alt="youtube subscribers" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fyoutube-channel-badge.ngoldack.vercel.app%2Fapi%2Fsubscriber"/>
 </a>
 
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
