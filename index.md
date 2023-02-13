@@ -277,6 +277,7 @@
   <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/WindowsSimulatorTools/)
  
  <h4> Sign In </h4>
+ 
  [![Signin](https://imgur.com/tNYWHGe.jpg)](https://jackhallloween21.github.io/website-signin-page/)
  
  ## HTML Editor 
