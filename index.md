@@ -33,6 +33,7 @@
 - 📫 How to reach me:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
+ 
  <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
 <a href="https://twitter.com/jackhalloween6"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jack.halloween6" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lucifermorningstarthedevil69969" height="30" width="40" /></a>
