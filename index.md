@@ -9,6 +9,7 @@
 <img width ="900" height ="700" src="https://imgur.com/SJoyiLt.jpg"/>
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 <img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" />
+</p>
 
 - 🔭 I’m currently working on :Telegram Bots,app deployment on heroku,okteto,netlify,free vps.ect
 - 
@@ -22,9 +23,6 @@
 - 
 - 💬 tell me some **jokes**                                    
 - ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-- Random meme generator:
- 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 - 🤔 I’m looking for help with some issues in some repos..
 - 
@@ -35,9 +33,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
  
  <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
+ 
 <a href="https://twitter.com/jackhalloween6"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jack.halloween6" height="30" width="40" /></a>
+
 <a href="https://youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lucifermorningstarthedevil69969" height="30" width="40" /></a>
+
 <a href="https://facebook.com/technohp/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jack.halloween21.techno" height="30" width="40" /></a>
+
 <a href="https://discord.gg/XEWJ8Yr2AQ"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="jack.halloween21s.Server" height="30" width="40" /></a>
 
 <img alt="My Name" width="900" src='https://imgur.com/8ZSkEMB.jpg' title="name"/>
