@@ -271,11 +271,11 @@
   <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/WindowsSimulatorTools/)
  
  <h4> Sign In </h4>
- 
- [![Signin](https://imgur.com/tNYWHGe.jpg)](https://jackhallloween21.github.io/website-signin-page/)
+ <a href="https://jackhallloween21.github.io/website-signin-page/" target="blank"><img align="center" src="https://imgur.com/u6sVKcM.jpg" alt="Sign In" height="150" width="150" /></a> **Sign In Page** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/website-signin-page/)
+
  
  ## HTML Editor 
- [![HTML Editor](https://imgur.com/3dxcACf.jpg)](https://jacksparrow90.github.io/htmleditor-unblocked/)
+ <a href="https://jackhallloween21.github.io/htmleditor-unblocked/" target="blank"><img align="center" src="https://imgur.com/3dxcACf.jpg" alt="Sign In" height="150" width="150" /></a> **HTML Editor** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/htmleditor-unblocked/)
  URL: [HTML Editor](https://bit.ly/3IPMcmQ)
  
   <a href="https://jackhallloween21.github.io/Other-Github-Hosted-Project-Links/" target="blank"><img align="center" src="https://imgur.com/wwwtsIy.png" alt="Index link and github project" height="150" width="150" /></a> **Index Links and Other Github hosted Project**
