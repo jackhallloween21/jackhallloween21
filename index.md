@@ -75,6 +75,7 @@
 # Tweets
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JokesMemesFacts)](https://github.com/gazf/github-readme-twitter)
 <br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you are fresh out of college and you think you know everything. <a href="https://twitter.com/hashtag/EngineeringMeme?src=hash&amp;ref_src=twsrc%5Etfw">#EngineeringMeme</a> <a href="https://t.co/OaY50vrLd0">pic.twitter.com/OaY50vrLd0</a></p>&mdash; Engineering Memes (@EngrMemes) <a href="https://twitter.com/EngrMemes/status/913348346089168896?ref_src=twsrc%5Etfw">September 28, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
 <h3> Clock </h3>
