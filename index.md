@@ -2,11 +2,13 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="https://imgur.com/NSBf7sf.png">
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jackhallloween21.jackhallloween21&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
+
+
+<h2 align="center">Hi <img src="https://imgur.com/31z3Dd7.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 <p align="center">
-<img width ="190" height ="170" src="https://imgur.com/SJoyiLt.jpg"/>
+<img width ="800" height ="500" src="https://imgur.com/SJoyiLt.jpg"/>
 <h3 align="center">A passionate and keenly interested LEARNER</h3>
 <img width="15%" align="right" alt="Github Image" src="https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg" />
 </p>
@@ -50,14 +52,17 @@
  <img align="center" alt="youtube subscribers" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fyoutube-channel-badge.ngoldack.vercel.app%2Fapi%2Fsubscriber"/>
 </a>
 
-@jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
+
+<h4> @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit: </h4>
 
 ![pro](https://komarev.com/ghpvc/?username=jackhallloween21&style=plastic&color=blueviolet)
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/jackhallloween21/jackhallloween21/issues/new/choose)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
  
 - 😄 Pronouns: ... I ME HE HIS HIM 
 - ⚡ Fun fact: ... [![spotify-github-profile](/icons/novatorem.svg)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc?si=5f2461610e89426f)
+
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cF0dROlMOK5uNZtivgu50?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
  
 # Dev Card
@@ -65,8 +70,8 @@
 
 <iframe src="https://devcard.link/tdOsYK" height="600" width="300" style="border:none;" title="Dev Card"></iframe>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/jackhallloween21/jackhallloween21/issues/new/choose)
 <br>
+
 # Tweets
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JokesMemesFacts)](https://github.com/gazf/github-readme-twitter)
 <br>
