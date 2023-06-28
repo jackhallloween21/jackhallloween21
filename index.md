@@ -66,9 +66,7 @@
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cF0dROlMOK5uNZtivgu50?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
  
 # Dev Card
-<a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=8ma" width="400" alt="Jack Halloween's Dev Card"/></a>
-
-<iframe src="https://devcard.link/tdOsYK" height="600" width="300" style="border:none;" title="Dev Card"></iframe>
+<a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=8ma" width="400" alt="Jack Halloween's Dev Card"/></a> <iframe src="https://devcard.link/tdOsYK" height="600" width="300" style="border:none;" title="Dev Card"></iframe>
 
 <br>
 
@@ -78,15 +76,14 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you are fresh out of college and you think you know everything. <a href="https://twitter.com/hashtag/EngineeringMeme?src=hash&amp;ref_src=twsrc%5Etfw">#EngineeringMeme</a> <a href="https://t.co/OaY50vrLd0">pic.twitter.com/OaY50vrLd0</a></p>&mdash; Engineering Memes (@EngrMemes) <a href="https://twitter.com/EngrMemes/status/913348346089168896?ref_src=twsrc%5Etfw">September 28, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-<h3> Clock </h3>
+<h3> Clock & Date </h3>
 
 <iframe src="https://free.timeanddate.com/clock/i8fqz0r1/n1872/szw160/szh160/hoc00f/hbw0/hfc000/cf100/hgr0/facf90/mqcfff/mql6/mqw2/mqd74/mhcfff/mhl6/mhw1/mhd74/mmcf90/mml4/mmw1/mmd74/hhcfff/hmcfff" frameborder="0" width="160" height="160"></iframe>
-
 <iframe src="https://free.timeanddate.com/clock/i8fqzajh/n1872/fn6/fs16/fc9ff/tc000/ftbi/bas2/bat1/bacfff/pa8/tt0/tw1/th1/ta1/tb4" frameborder="0" width="212" height="56"></iframe>
 
 ## Logos
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
 <br> 
