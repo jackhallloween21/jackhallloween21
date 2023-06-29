@@ -4,7 +4,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jackhallloween21.jackhallloween21&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-<link rel="stylesheet" href="/dark-mode.css" />
+<link rel="stylesheet" href="pages/dark-mode.css" />
 
  <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
@@ -83,7 +83,7 @@
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cF0dROlMOK5uNZtivgu50?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
  
 # Dev Card
-<p align="left"> <iframe src="https://devcard.link/tdOsYK" height="600" width="300" style="border:none;" title="Dev Card"></iframe> </p>
+<p align="right"> <iframe src="https://devcard.link/tdOsYK" height="600" width="300" style="border:none;" title="Dev Card"></iframe> </p>
 <a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=8ma" width="400" alt="Jack Halloween's Dev Card"/></a> 
 
 <br>
