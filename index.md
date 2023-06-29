@@ -362,21 +362,16 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
  🆂🅰🅼🅿🅻🅴 🆃🅴🆇🆃
  
 
-# Multiple Speedtest
+# Speedtest
  
  [![ookla](https://imgur.com/jIENIjr.png)](https://www.speedtest.net/)
  
- <iframe src="https://speed.measurementlab.net/#/" style="border:0px #ffffff none;" name="Mlab" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
- 
  <iframe src="https://fast.com/" style="border:0px #ffffff none;" name="https://fast.com/" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
  
- <div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="//openspeedtest.com/Get-widget.php"></iframe></div></div>Provided by  <a href="http://openspeedtest.com">OpenSpeedtest.com</a></div>
- 
-
-<div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="https://www.metercustom.net/plugin/"></iframe></div></div>Provided by <a href="https://www.meter.net">Meter.net</a></div>
+<div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="https://www.metercustom.net/plugin/"></iframe></div>
  
  
- ### Youtube_Video 
+ # Youtube Video 
 
 [![MY Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw)
 
@@ -400,8 +395,6 @@ One of the following database:
   - `DATABASE_URL`- Get it from [elephantsql](https://elephantsql.com).
  
 # Halloween 🎃🦇👻
-
-<iframe src="https://jackhallloween21.github.io/My-Name-In-Style/" style="border:0px #ffffff none;" name="name" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="2500px" allowfullscreen></iframe>
 
 <img width="30%" align="right" alt="Github Image" src="unnamed.png" /> 
 
@@ -522,8 +515,8 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 
 <img src="github_stats.svg">
 
-### Collection of few Wallpapers
-<h2>Wallpaper RandomizerX:</h2>
+### Random Wallpaper
+<h2>Wallpaper Randomizer X:</h2>
 ![WallpaperRandomizer](https://unsplash.it/1920/1080?random)
 
 <font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="visit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=6cuelwm2j7kk2ry59cg1qcwmj17dxhty" border="0" title="visit counter" alt="visit counter"></a>
