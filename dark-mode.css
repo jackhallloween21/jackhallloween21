@@ -1,1 +1,21 @@
+/* Dark mode styles */
 
+body.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+}
+
+a {
+  color: #00aaff;
+}
+
+/* Additional styles specific to your website */
