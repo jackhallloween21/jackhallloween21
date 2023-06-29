@@ -4,7 +4,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jackhallloween21.jackhallloween21&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-<link rel="stylesheet" href="dark-mode.css" />
+<link rel="stylesheet" href="/dark-mode.css" />
 
 <script>
   function toggleDarkMode() {
@@ -266,8 +266,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-  
- <h3> Some of my github hosted websites (I didn't built them found them on some sites like dcoder,codepen) </h3>
+
+  # 🌐 Websites Hosted On Github 🌐
+ <h3> Some of my GitHub hosted websites (I didn't build them found them on some sites like dcoder,codepen) </h3>
  
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  
@@ -281,12 +282,11 @@
   
    <a href="https://jackhallloween21.github.io/Win7UI/" target="blank"><img align="center" src="https://i.imgur.com/uGDsMzH.jpg" alt="Windows7 Emulator" height="150" width="150" /></a> **Windows 7 Emulator** [![Website Windows 7 Emulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/Win7UI/)
    
-   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://imgur.com/eScIxEq.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best expeience don't open this using desktop site)** [![Website Iphone Emulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/iphonesimulator/)
+   <a href="https://jackhallloween21.github.io/iphonesimulator/" target="blank"><img align="center" src="https://imgur.com/eScIxEq.png" alt="Iphone Emulator" height="150" width="150" /></a> **Iphone Emulator (for best experience don't open this using desktop site)** [![Website Iphone Emulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/iphonesimulator/)
    
   <a href="https://jackhallloween21.github.io/WindowsSimulatorTools/" target="blank"><img align="center" src="https://imgur.com/YQ8sCCm.png" alt="Windows 8 Simulator" height="150" width="150" /></a> **Windows 8 Simulator** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/WindowsSimulatorTools/)
  
- <h4> Sign In </h4>
- <a href="https://jackhallloween21.github.io/website-signin-page/" target="blank"><img align="center" src="https://imgur.com/u6sVKcM.jpg" alt="Sign In" height="150" width="150" /></a> **Sign In Page** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/website-signin-page/)
+ <a href="https://jackhallloween21.github.io/website-signin-page/" target="blank"><img align="center" src="https://imgur.com/u6sVKcM.jpg" alt="Sign In" height="150" width="150" /></a> **Sign In Page** [![Sign In](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/website-signin-page/)
 
  <a href="https://jackhallloween21.github.io/htmleditor-unblocked/" target="blank"><img align="center" src="https://imgur.com/3dxcACf.jpg" alt="Sign In" height="150" width="150" /></a> **HTML Editor** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/htmleditor-unblocked/)
  URL: [HTML Editor](https://bit.ly/3IPMcmQ)
