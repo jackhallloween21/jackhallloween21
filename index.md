@@ -6,19 +6,22 @@
 
 <link rel="stylesheet" href="/dark-mode.css" />
 
-<script>
-  function toggleDarkMode() {
-    const darkModeEnabled = document.body.classList.toggle("dark-mode");
-    localStorage.setItem("darkModeEnabled", darkModeEnabled);
-  }
+ <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
-  const storedDarkModeEnabled = localStorage.getItem("darkModeEnabled");
-  if (storedDarkModeEnabled === "true") {
-    document.body.classList.add("dark-mode");
-  }
-</script>
+  <script>
+    function toggleDarkMode() {
+      const body = document.body;
+      const darkModeEnabled = body.classList.toggle("dark-mode");
+      body.classList.toggle("light-mode", !darkModeEnabled);
+      localStorage.setItem("darkModeEnabled", darkModeEnabled);
+    }
 
-<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+    const storedDarkModeEnabled = localStorage.getItem("darkModeEnabled");
+    if (storedDarkModeEnabled === "true") {
+      document.body.classList.add("dark-mode");
+    }
+  </script>
+
 
 <h2 align="center">Hi <img src="https://imgur.com/31z3Dd7.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 <p align="center">
