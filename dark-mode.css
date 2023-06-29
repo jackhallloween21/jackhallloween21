@@ -18,4 +18,22 @@ a {
   color: #00aaff;
 }
 
-/* Additional styles specific to your website */
+/* Light mode styles */
+
+body.light-mode {
+  background-color: #fff;
+  color: #222;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #222;
+}
+
+a {
+  color: #0077cc;
+}
