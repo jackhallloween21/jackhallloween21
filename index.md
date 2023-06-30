@@ -83,12 +83,11 @@
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cF0dROlMOK5uNZtivgu50?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
  
 # Dev Card
-
-
-<div>
- <p align="left">
-<a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=8ma" width="400" alt="Jack Halloween's Dev Card"/></a> </p>  <iframe align="right" src="https://devcard.link/tdOsYK" height="600" width="300" style="border:none;" title="Dev Card"></iframe> </p> </div>
-
+<div class="row">
+  <div class="column">
+<a href="https://app.daily.dev/jackhalloween21"><img src="https://api.daily.dev/devcards/40a83a6ded014d9cbe31520c320c9096.png?r=8ma" width="400" alt="Jack Halloween's Dev Card"/></a>  </div>  
+<div class="column"> <iframe align="right" src="https://devcard.link/tdOsYK" height="600" width="300" style="border:none;" title="Dev Card"></iframe>   </div>
+  </div>
 
 <br>
 
@@ -274,9 +273,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-  # 🌐 Websites Hosted On Github 🌐
- <h3> Some of my GitHub hosted websites (I didn't build them found them on some sites like dcoder,codepen) </h3>
- 
+  <h2> 🌐 Websites Hosted On Github 🌐 </h2>
+  
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jackhallloween21/WARP-UNLIMITED-ADVANCED/graphs/commit-activity)
  
   <h4> Please Click the icons to visit the following websites: </h4>
@@ -299,7 +297,8 @@
  URL: [HTML Editor](https://bit.ly/3IPMcmQ)
  
   <a href="https://jackhallloween21.github.io/Other-Github-Hosted-Project-Links/" target="blank"><img align="center" src="https://imgur.com/wwwtsIy.png" alt="Index link and github project" height="150" width="150" /></a> **Index Links and Other Github hosted Project**
-  
+   <h5> Some of my GitHub-hosted websites (p.s I didn't build them found them on some sites like dcoder,codepen) </h5>
+   
 # Unblocked-X - Unblocked Games
 [![Readme Quotes](https://imgur.com/2B52rzt.jpg)](https://unblocked-x.com/)
 
@@ -314,6 +313,7 @@
 <p>
 
  Url: [Deployment via github](https://www.caduceus.ml/WARP-UNLIMITED-ADVANCED)
+ 
  <h4><b>0.First Get your WARP/WARP+ ID by going into Settings > Advanced > Diagnostics and copy the ID under <code>CLIENT CONFIGURATION</code> section</b></h4>
 <img src="https://imgur.com/JpII9UQ.jpg" height="50%" width="40%" alt="1">
 <h2><b>🕹️ Run on Google Colab</b></h2>
@@ -379,12 +379,10 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
  
  
  # Youtube Video 
-
 [![MY Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw)
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsDblIUMTkw3SJoWWt4Uaw3kDiYGMxCch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Installing Windows Subsystem Android with Magisk Prerooted](https://img.youtube.com/vi/c1As1Zk9dqA/0.jpg)](https://www.youtube.com/watch?v=c1As1Zk9dqA)
 <rssapp-imageboard id="Z2qmcv2Re21wrLZK"> </rssapp-imageboard>
 <script src="https://widget.rss.app/v1/imageboard.js" type="text/javascript" async></script>
 
@@ -392,6 +390,7 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
 <script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 
  # Database generators
+ 
 One of the following database:
 - For **Redis** (tutorial [here](./resources/extras/redistut.md))
   - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/).
@@ -480,9 +479,9 @@ While the first reference to "guising" in North America occurs in 1911, another 
 ![Image](/realistic-halloween-background_52683-72972.webp)
 
 An automobile trunk at a trunk-or-treat event at St. John Lutheran Church and Early Learning Center in Darien, Illinois
-The thousands of Halloween postcards produced between the turn of the 20th century and the 1920s commonly show children but not trick-or-treating. Trick-or-treating does not seem to have become a widespread practice in North America until the 1930s, with the first US appearances of the term in 1934,[175] and the first use in a national publication occurring in 1939.
+The thousands of Halloween postcards produced between the turn of the 20th century and the 1920s commonly show children but not trick-or-treating. Trick-or-treating does not seem to have become a widespread practice in North America until the 1930s, with the first US appearance of the term in 1934,[175] and the first use in a national publication occurring in 1939.
 
-A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween tailgating), occurs when "children are offered treats from the trunks of cars parked in a church parking lot", or sometimes, a school parking lot. In a trunk-or-treat event, the trunk (boot) of each automobile is decorated with a certain theme, such as those of children's literature, movies, scripture, and job roles. Trunk-or-treating has grown in popularity due to its perception as being more safe than going door to door, a point that resonates well with parents, as well as the fact that it "solves the rural conundrum in which homes built a half-mile apart".
+A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween tailgating), occurs when "children are offered treats from the trunks of cars parked in a church parking lot", or sometimes, a school parking lot. In a trunk-or-treat event, the trunk (boot) of each automobile is decorated with a certain theme, such as those of children's literature, movies, scripture, and job roles. Trunk-or-treating has grown in popularity due to its perception as being safer than going door to door, a point that resonates well with parents, as well as the fact that it "solves the rural conundrum in which homes built a half-mile apart".
 
 [My Github 🖥️ Repo:](https://github.com/jackhallloween21) 
 <p align="left"> 
@@ -512,6 +511,7 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 </form>
 
 ## Light mode Sun or Dark mode Moon
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -549,7 +549,11 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
    <h2>Uploaded Products:</h2>
     
    <div id="productContainer"></div>
-
+   
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B09MT6SWDL&asins=B09MT6SWDL&linkId=ac69807185beedc2a460b6f0d0860618&show_border=false&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BDYW3RN3&asins=B0BDYW3RN3&linkId=f25a6cd180db4c42919825050441fca4&show_border=false&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B0886VY276&asins=B0886VY276&linkId=3756b60bc247847932c4cc1238bc8e08&show_border=false&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BTZ5821P&asins=B0BTZ5821P&linkId=dbae198c2720d872e93fc99b142a29cd&show_border=false&link_opens_in_new_window=true"></iframe>
    <script>
         // Retrieve stored products from local storage, if any
         var storedProducts = JSON.parse(localStorage.getItem("uploadedProducts")) || [];
