@@ -522,6 +522,89 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 
 <img src="github_stats.svg">
 
+# Amazon Affiliate test
+ <h1>Amazon Affiliate Products</h1> 
+   <form id="searchForm">
+        <label for="search">Search for a product:</label>
+        <input type="text" id="search" name="search">
+        <input type="submit" value="Search">
+    </form>
+   
+   <hr>
+    
+   <h2>Upload a product:</h2>
+    
+   <form id="uploadForm">
+        <label for="productName">Product Name:</label>
+        <input type="text" id="productName" name="productName">
+        <br><br>
+        <label for="productEmbed">Product Embed:</label>
+        <textarea id="productEmbed" name="productEmbed"></textarea>
+        <br><br>
+        <input type="submit" value="Upload">
+    </form>
+    
+   <hr>
+    
+   <h2>Uploaded Products:</h2>
+    
+   <div id="productContainer"></div>
+
+   <script>
+        // Retrieve stored products from local storage, if any
+        var storedProducts = JSON.parse(localStorage.getItem("uploadedProducts")) || [];
+
+        // Function to render the stored products on the page
+        function renderProducts() {
+            var productContainer = document.getElementById("productContainer");
+            productContainer.innerHTML = ""; // Clear the container
+
+            // Add products to the container
+            for (var i = 0; i < storedProducts.length; i++) {
+                var product = storedProducts[i];
+
+                var productElement = document.createElement("div");
+                productElement.className = "embedded-product";
+                productElement.innerHTML = product.embed;
+
+                productContainer.appendChild(productElement);
+            }
+        }
+
+        // Handle form submission for uploading a product
+        document.getElementById("uploadForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent the form from submitting
+
+            // Get the values from the form fields
+            var productName = document.getElementById("productName").value;
+            var productEmbed = document.getElementById("productEmbed").value;
+
+            // Create an object for the uploaded product
+            var newProduct = {
+                name: productName,
+                embed: productEmbed
+            };
+
+            // Add the product to the stored products array
+            storedProducts.push(newProduct);
+
+            // Save the updated products to local storage
+            localStorage.setItem("uploadedProducts", JSON.stringify(storedProducts));
+
+            // Clear the form fields
+            document.getElementById("productName").value = "";
+            document.getElementById("productEmbed").value = "";
+
+            // Render the updated products on the page
+            renderProducts();
+        });
+
+        // Render the stored products on page load
+        renderProducts();
+    </script>
+
+
+
 ### Random Wallpaper
 <h2>Wallpaper Randomizer X:</h2>
 ![WallpaperRandomizer](https://unsplash.it/1920/1080?random)
