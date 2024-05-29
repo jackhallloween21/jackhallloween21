@@ -1,4 +1,4 @@
-![spotify-github-profile](/icons/default.svg)
+
 ### Hi there 👋
 <p align="center">
 <img src="https://imgur.com/SJoyiLt.jpg" />
