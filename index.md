@@ -8,19 +8,7 @@
 
  <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
-  <script>
-    function toggleDarkMode() {
-      const body = document.body;
-      const darkModeEnabled = body.classList.toggle("dark-mode");
-      body.classList.toggle("light-mode", !darkModeEnabled);
-      localStorage.setItem("darkModeEnabled", darkModeEnabled);
-    }
-
-    const storedDarkModeEnabled = localStorage.getItem("darkModeEnabled");
-    if (storedDarkModeEnabled === "true") {
-      document.body.classList.add("dark-mode");
-    }
-  </script>
+  
 
 
 <h2 align="center">Hi <img src="https://imgur.com/31z3Dd7.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
@@ -197,7 +185,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-![ASSkills](https://camo.githubusercontent.com/d0df622d92d96a8bce953274a36b8e00e8906de45f2746ecc8177046123d4881/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616c6c)
+![Skills](https://camo.githubusercontent.com/d0df622d92d96a8bce953274a36b8e00e8906de45f2746ecc8177046123d4881/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616c6c)
 
 <h2 align="center">
   My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -296,6 +284,8 @@
  <a href="https://jackhallloween21.github.io/htmleditor-unblocked/" target="blank"><img align="center" src="https://imgur.com/3dxcACf.jpg" alt="Sign In" height="150" width="150" /></a> **HTML Editor** [![Website Windows 8 Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/htmleditor-unblocked/)
  URL: [HTML Editor](https://bit.ly/3IPMcmQ)
  
+  <a href="/prod_upload.html"> Testing Upload </a>
+
   <a href="https://jackhallloween21.github.io/Other-Github-Hosted-Project-Links/" target="blank"><img align="center" src="https://imgur.com/wwwtsIy.png" alt="Index link and github project" height="150" width="150" /></a> **Index Links and Other Github hosted Project**
    <h5> Some of my GitHub-hosted websites (p.s I didn't build them found them on some sites like dcoder,codepen) </h5>
    
@@ -306,32 +296,7 @@
 ** Unblocked X gives you access to the best free games from all over the world. Enjoy the most popular games for free with no restrictions, you will be able to play it from any country.
 - The Dev Team **
   
- <h2> Unlimited Cloud flare WARP+ using google colab </h2>
-
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb)
-
-<p>
-
- Url: [Deployment via github](https://www.caduceus.ml/WARP-UNLIMITED-ADVANCED)
  
- <h4><b>0.First Get your WARP/WARP+ ID by going into Settings > Advanced > Diagnostics and copy the ID under <code>CLIENT CONFIGURATION</code> section</b></h4>
-<img src="https://imgur.com/JpII9UQ.jpg" height="50%" width="40%" alt="1">
-<h2><b>🕹️ Run on Google Colab</b></h2>
-<h4><b>1.First Open this Code on Google Colab:<a href="https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb" alt="Open-Colab"> Open Code!</a></b></h4>
-
-<h4><b>2.Now Run the Timeout Preventer to prevent Google Colab from getting timeout</b></h4>
-<img src="https://imgur.com/AzQdHSz.png" alt="2">
-<h4><b>3.Then Run The WARP+ (1.1.1.1) Code and Enter your Warp ID (Also Hit Enter after it!) as shown in the Image</b></h4>
-<img src="https://imgur.com/qbNYoQE.png" alt="3">
-<h4><b>4.After that! Let the code run, It will give you 1GB per 10 Seconds. But you have to update the value in the app! To do it<br>Go to Settings > Advanced > Connection options and press on Reset security keys</b></h4>
-<h4><b><i>❗You have to manually update the Value in the app as written in above step❗</i></b></h4>
-  </p>
- 
- <h2> Session String </h2>
- 
- Different ways to get your `SESSION` for telethon bots
- 
- [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
  
  [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
 <img alt="" width="900"
@@ -389,16 +354,6 @@ Copy and paste cool symbols from below. Beautify your statuses, comments, messag
 <rssapp-ticker id="Z2qmcv2Re21wrLZK"> </rssapp-ticker>
 <script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 
- # Database generators
- 
-One of the following database:
-- For **Redis** (tutorial [here](./resources/extras/redistut.md))
-  - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/).
-  - `REDIS_PASSWORD` - Redis endpoint Password, from [redislabs](http://redislabs.com/).
-- For **MONGODB**
-  - `MONGO_URI` - Get it from [mongodb](https://mongodb.com/atlas).
-- For **SQLDB**
-  - `DATABASE_URL`- Get it from [elephantsql](https://elephantsql.com).
  
 # Halloween 🎃🦇👻
 
@@ -506,7 +461,6 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
     Your message:
     <textarea name="message"></textarea>
   </label>
-  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
 
@@ -522,100 +476,20 @@ A popular variant of trick-or-treating, known as trunk-or-treating (or Halloween
 
 <img src="github_stats.svg">
 
-# Amazon Affiliate test
- <h1>Amazon Affiliate Products</h1> 
-   <form id="searchForm">
-        <label for="search">Search for a product:</label>
-        <input type="text" id="search" name="search">
-        <input type="submit" value="Search">
-    </form>
-   
-   <hr>
+
     
-   <h2>Upload a product:</h2>
-    
-   <form id="uploadForm">
-        <label for="productName">Product Name:</label>
-        <input type="text" id="productName" name="productName">
-        <br><br>
-        <label for="productEmbed">Product Embed:</label>
-        <textarea id="productEmbed" name="productEmbed"></textarea>
-        <br><br>
-        <input type="submit" value="Upload">
-    </form>
-    
-   <hr>
-    
-   <h2>Uploaded Products:</h2>
-    
-   <div id="productContainer"></div>
-   
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B09MT6SWDL&asins=B09MT6SWDL&linkId=ac69807185beedc2a460b6f0d0860618&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BDYW3RN3&asins=B0BDYW3RN3&linkId=f25a6cd180db4c42919825050441fca4&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B0886VY276&asins=B0886VY276&linkId=3756b60bc247847932c4cc1238bc8e08&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=techprodu0f42-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BTZ5821P&asins=B0BTZ5821P&linkId=dbae198c2720d872e93fc99b142a29cd&show_border=false&link_opens_in_new_window=true"></iframe>
-   <script>
-        // Retrieve stored products from local storage, if any
-        var storedProducts = JSON.parse(localStorage.getItem("uploadedProducts")) || [];
-
-        // Function to render the stored products on the page
-        function renderProducts() {
-            var productContainer = document.getElementById("productContainer");
-            productContainer.innerHTML = ""; // Clear the container
-
-            // Add products to the container
-            for (var i = 0; i < storedProducts.length; i++) {
-                var product = storedProducts[i];
-
-                var productElement = document.createElement("div");
-                productElement.className = "embedded-product";
-                productElement.innerHTML = product.embed;
-
-                productContainer.appendChild(productElement);
-            }
-        }
-
-        // Handle form submission for uploading a product
-        document.getElementById("uploadForm").addEventListener("submit", function(event) {
-            event.preventDefault(); // Prevent the form from submitting
-
-            // Get the values from the form fields
-            var productName = document.getElementById("productName").value;
-            var productEmbed = document.getElementById("productEmbed").value;
-
-            // Create an object for the uploaded product
-            var newProduct = {
-                name: productName,
-                embed: productEmbed
-            };
-
-            // Add the product to the stored products array
-            storedProducts.push(newProduct);
-
-            // Save the updated products to local storage
-            localStorage.setItem("uploadedProducts", JSON.stringify(storedProducts));
-
-            // Clear the form fields
-            document.getElementById("productName").value = "";
-            document.getElementById("productEmbed").value = "";
-
-            // Render the updated products on the page
-            renderProducts();
-        });
-
-        // Render the stored products on page load
-        renderProducts();
-    </script>
+  
+  
 
 
 
 ### Random Wallpaper
 <h2>Wallpaper Randomizer X:</h2>
-![WallpaperRandomizer](https://unsplash.it/1920/1080?random)
+[WallpaperRandomizer](https://unsplash.it/1920/1080?random)
 
 <font color = "red" face = "Times New Roman" size = "5">Website View Counter:</font><br/> <a href="https://www.freecounterstat.com" title="visit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=6cuelwm2j7kk2ry59cg1qcwmj17dxhty" border="0" title="visit counter" alt="visit counter"></a>
 
-<marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="">Its My Fish</marquee>
+<marquee class="GeneratedMarquee" direction="right" scrollamount="20" behavior="scroll"><img src="https://imgur.com/QT7PibS.gif" alt="Floating Fish" height="50%" width="50%">My Fish</marquee>
 
  <font color = "green" face = "Times New Roman" size = "5">Website View Counter:</font><br/>
 <a href="https://www.freecounterstat.com" title="web page counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=39mleq1hgygawhbn7l1ullffajwbegz7" border="0" title="web page counter" alt="web page counter"></a>

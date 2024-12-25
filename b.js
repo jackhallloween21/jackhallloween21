@@ -26,3 +26,15 @@ function SlideShow(n) {
   slides[slidePosition-1].style.display = "block";
   circles[slidePosition-1].className += " enable";
 } 
+
+    function toggleDarkMode() {
+      const body = document.body;
+      const darkModeEnabled = body.classList.toggle("dark-mode");
+      body.classList.toggle("light-mode", !darkModeEnabled);
+      localStorage.setItem("darkModeEnabled", darkModeEnabled);
+    }
+
+    const storedDarkModeEnabled = localStorage.getItem("darkModeEnabled");
+    if (storedDarkModeEnabled === "true") {
+      document.body.classList.add("dark-mode");
+    }
