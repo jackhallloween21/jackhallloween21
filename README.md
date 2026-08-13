@@ -108,56 +108,110 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <p><i>A showcase of full-stack web platforms, AI solutions, and developer utilities.</i></p>
+  <p><i>A showcase of full-stack web platforms, AI solutions, and developer tools built for performance and user experience.</i></p>
 </div>
+
+<br/>
 
 #### 💰 TrackInvestment
 > **Personal Finance Dashboard for Indian Investors**
-> Track investments across mutual funds, stocks, metals, crypto, and savings schemes with real-time analytics.
-- **Tech Stack:** Supabase, Edge Functions, Financial Analytics
-- **Live Demos:** [Netlify Live](https://trackmyinvestment.netlify.app/) • [Vercel Live](https://trackmyinvestment.vercel.app/)
+> Track investments across mutual funds, stocks, metals, crypto, and savings schemes with real-time analytics & edge functions.
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Edge Functions](https://img.shields.io/badge/Edge_Functions-000000?style=flat-square&logo=v8&logoColor=white)
+![Domain FinTech](https://img.shields.io/badge/Domain-FinTech-0088CC?style=flat-square)
+
+<br/>
+
+[<img src="https://img.shields.io/badge/🚀_Netlify_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://trackmyinvestment.netlify.app/)
+[<img src="https://img.shields.io/badge/⚡_Vercel_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://trackmyinvestment.vercel.app/)
+
+---
 
 #### 🤖 AI Interview Agent (Alpha)
 > **Enterprise-Grade Virtual AI Candidate Screening Suite**
-> Intelligent talent screening solution automating interviews using voice-to-text and AI evaluations.
-- **Tech Stack:** Google Gemini, Firestore, Node.js, Express
-- **Links:** [Live Platform](https://ai-interview-agent-oxfk.onrender.com/) • [GitHub Repository](https://github.com/jackhallloween21/Alpha-AI-Interview-Agent#ai-interview-agent-alpha)
+> Intelligent talent screening solution automating interviews using voice-to-text, resume parsing, and AI evaluations.
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+<br/>
+
+[<img src="https://img.shields.io/badge/🌐_Launch_Platform-46E3B7?style=for-the-badge&logo=render&logoColor=white" />](https://ai-interview-agent-oxfk.onrender.com/)
+[<img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jackhallloween21/Alpha-AI-Interview-Agent#ai-interview-agent-alpha)
+
+---
 
 #### 💸 SpendWise Pro
 > **Smart Expense Tracker & Financial Analytics**
 > Full-stack personal finance application with AI voice logging and interactive data visualization.
-- **Tech Stack:** React, TypeScript, Tailwind CSS, Recharts
-- **Live Demo:** [Launch SpendWise Pro](https://spendtracker-gegctwve.edgeone.dev/)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+
+<br/>
+
+[<img src="https://img.shields.io/badge/🔥_Launch_SpendWise-0052CC?style=for-the-badge&logo=tencentqq&logoColor=white" />](https://spendtracker-gegctwve.edgeone.dev/)
+
+---
 
 #### 💳 Card Keeper
 > **Apple Wallet-Style Card Management App**
-> Organize and manage payment cards with automatic provider identification and dynamic themes.
-- **Tech Stack:** React, Web Platform, Custom UI/UX
-- **Live Demo:** [Launch Card Keeper](https://pocket-card-wallet.vercel.app/)
+> Organize and manage payment cards with automatic network provider identification and dynamic themes.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Apple Wallet Design](https://img.shields.io/badge/Design-Apple_Wallet-000000?style=flat-square&logo=apple&logoColor=white)
+![Auto Detection](https://img.shields.io/badge/Auto_Detect-RuPay_%7C_Visa_%7C_Mastercard-1A1F71?style=flat-square)
+
+<br/>
+
+[<img src="https://img.shields.io/badge/💳_Launch_Wallet-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://pocket-card-wallet.vercel.app/)
+
+---
 
 #### 🎓 CampusNear
 > **College Discovery & Admission Platform**
 > Search, compare programs, and reserve college seats online with student and admin dashboards.
-- **Tech Stack:** Full-Stack Architecture, Admin Suite
-- **Live Demo:** [Explore CampusNear](https://campus-finder-guide.vercel.app/)
+
+![Full Stack](https://img.shields.io/badge/Architecture-Full_Stack-6f42c1?style=flat-square)
+![Admin & Student Portal](https://img.shields.io/badge/Portal-Admin_%26_Student-28a745?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+<br/>
+
+[<img src="https://img.shields.io/badge/🎓_Explore_CampusNear-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://campus-finder-guide.vercel.app/)
+
+---
 
 #### 📺 AnimeWatchList
 > **Anime Tracking & Management Portal**
-> Streamlined anime tracking application with live cloud synchronization.
-- **Tech Stack:** React, TanStack Router, Supabase
-- **Live Demos:** [Vercel Live](https://animelistx.vercel.app/) • [Netlify Live](https://animelistx.netlify.app/)
+> Streamlined anime tracking application with live cloud synchronization and watchlist categorization.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<br/>
+
+[<img src="https://img.shields.io/badge/🍿_Vercel_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://animelistx.vercel.app/)
+[<img src="https://img.shields.io/badge/🎬_Netlify_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://animelistx.netlify.app/)
 
 ---
 
 ### 🛠️ Web Tools & Utilities
 
-| Utility Project | Description | Key Features | Live Demo |
+| Utility Project | Description | Key Badges | Live Action Button |
 | :--- | :--- | :--- | :---: |
-| **📐 Math Solver** | AI math problem solver recognizing written input. | Optical Expression Parsing • Step-by-Step Solutions | [Demo](https://handwrittenmathsolver.netlify.app/) |
-| **🔐 PassVault** | Vault-themed password manager & generator. | Strength Meter • Local Encryption | [Demo](https://passwordkeeperx.netlify.app/) |
-| **💱 CurrencyX** | Real-time currency conversion tool. | 30+ Currencies • Instant Calculations | [Demo](https://currencyexchangex.netlify.app/) |
-| **🌍 IP Finder** | IP geolocation lookup with interactive map. | IPv4 & IPv6 • ISP Detection • Visual Map | [Demo](https://iplocatorx.netlify.app/) |
-| **📱 QR Generator** | Custom QR code generator for links & WiFi. | PNG/SVG Downloads • Styling Options | [Demo](https://qrgeneratorx.netlify.app/) |
+| **📐 Math Solver** | AI math problem solver recognizing written input. | ![AI](https://img.shields.io/badge/AI-OCR-blue?style=flat-square) | [<img src="https://img.shields.io/badge/Launch-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://handwrittenmathsolver.netlify.app/) |
+| **🔐 PassVault** | Vault-themed password manager & generator. | ![Security](https://img.shields.io/badge/Crypto-AES-green?style=flat-square) | [<img src="https://img.shields.io/badge/Launch-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://passwordkeeperx.netlify.app/) |
+| **💱 CurrencyX** | Real-time currency conversion tool. | ![API](https://img.shields.io/badge/Live-FX_Rates-orange?style=flat-square) | [<img src="https://img.shields.io/badge/Launch-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://currencyexchangex.netlify.app/) |
+| **🌍 IP Finder** | IP geolocation lookup with interactive map. | ![Map](https://img.shields.io/badge/Geo-IP_Lookup-purple?style=flat-square) | [<img src="https://img.shields.io/badge/Launch-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://iplocatorx.netlify.app/) |
+| **📱 QR Generator** | Custom QR code generator for links & WiFi. | ![SVG](https://img.shields.io/badge/Export-PNG_%7C_SVG-red?style=flat-square) | [<img src="https://img.shields.io/badge/Launch-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://qrgeneratorx.netlify.app/) |
 
 ---
 
