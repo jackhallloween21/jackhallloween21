@@ -240,151 +240,114 @@ A modern card management application that lets you store, organize, and manage y
   - Auto-detect bank name
   - Color-coded by card type (Credit, Debit, Prepaid)
   - Custom color matching to card appearance
-- **Live Demo:** [Pocket Card Wallet](https://pocket-card-wallet.vercel.app/)
+# 🚀 Featured Projects
+
+<div align="center">
+  <p>A collection of full-stack applications, AI integrations, and daily developer tools built for performance and user experience.</p>
+</div>
 
 ---
 
-## 💸 SpendWise Pro
-**Smart Expense Tracker & Financial Analytics**
+## 🌟 Spotlight Projects
 
-A modern, full-stack personal finance application built with cutting-edge technologies. Log, analyze, and visualize your expenses with AI-powered insights.
+### 💰 TrackInvestment
+> **Personal Finance Dashboard for Indian Investors**
 
-- **Tech Stack:** React, TypeScript, Tailwind CSS, Recharts, Supabase
-- **Features:**
-  - Log expenses individually or in bulk
-  - AI voice-to-text entry parsing
-  - Custom categories and payment modes
-  - Interactive monthly and yearly analytics
-  - Real-time financial insights
-- **Live Demo:** [SpendWise Pro](https://spendtracker-gegctwve.edgeone.dev/)
+Track your investments across multiple categories with real-time analytics and live asset prices.
 
----
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Edge Functions](https://img.shields.io/badge/Edge_Functions-000000?style=flat-square&logo=v8&logoColor=white)
+![Financial Dashboard](https://img.shields.io/badge/Domain-FinTech-blue?style=flat-square)
 
-## 🤖 AI Interview Agent (Alpha)
-**Enterprise-Grade Virtual AI Screening Agent Suite**
-
-An intelligent talent screening solution that automates the interview process with AI-powered candidates evaluation.
-
-- **Tech Stack:** Full-stack with Google Cloud Firestore, Gemini API
-- **Features:**
-  - Resume parsing against job requirements
-  - Real-time voice and text interviews
-  - Simulated interview environment
-  - Performance dashboards for recruiters
-  - Elegant UI with light/dark mode
-  - Fluid animations and transitions
-- **Live Demo:** [AI Interview Agent](https://ai-interview-agent-oxfk.onrender.com/)
-- **GitHub:** [Alpha-AI-Interview-Agent](https://github.com/jackhallloween21/Alpha-AI-Interview-Agent#ai-interview-agent-alpha)
+* **Key Features:** Mutual Funds, Stocks, Metals, Crypto & Savings Schemes tracking.
+* **Live Market Data:** Metal price history powered by Supabase edge functions.
+* **🔗 Demos:** [Netlify Live](https://trackmyinvestment.netlify.app/) • [Vercel Live](https://trackmyinvestment.vercel.app/)
 
 ---
 
-## 🎓 CampusNear
-**College Discovery & Admission Platform**
+### 🤖 AI Interview Agent (Alpha)
+> **Enterprise-Grade Virtual AI Screening Agent Suite**
 
-A comprehensive full-stack web application designed to help students discover colleges, compare academic programs and fees, and book admission seats online seamlessly.
+An intelligent talent screening solution that automates the candidate interview process using voice-to-text and AI evaluation.
 
-- **Tech Stack:** Full-stack web application
-- **Features:**
-  - College discovery and comparison tools
-  - Academic programs and fees comparison
-  - Online admission seat booking
-  - Public-facing college discovery experience
-  - Authenticated student workflows
-  - Administrative dashboard for colleges, courses, degrees, bookings, and users
-- **Live Demo:** [CampusNear](https://campus-finder-guide.vercel.app/)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Firestore](https://img.shields.io/badge/Google_Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
-
-## 📺 AnimeWatchList
-**Anime Tracking & Management App**
-
-A modern web application for tracking, organizing, and managing your anime watchlist with intuitive categorization and ratings.
-
-- **Tech Stack:** React, TanStack Router, Supabase, Tailwind CSS
-- **Features:**
-  - Track anime you're watching
-  - Organize and manage watchlist
-  - Rate and review series
-  - Plan what to watch next
-  - Real-time synchronization with Supabase backend
-  - Modern responsive UI
-- **Live Demo:** 
-  - [Vercel](https://animelistx.vercel.app/)
-  - [Netlify](https://animelistx.netlify.app/)
+* **Resume Matcher:** Automated resume parsing aligned with specific job requirements.
+* **AI Interviews:** Real-time simulated voice & text interview interface.
+* **Recruiter Suite:** Interactive performance analytics, fluid UI animations, and dark/light modes.
+* **🔗 Links:** [Live Platform](https://ai-interview-agent-oxfk.onrender.com/) • [GitHub Repository](https://github.com/jackhallloween21/Alpha-AI-Interview-Agent#ai-interview-agent-alpha)
 
 ---
 
-## 📐 Handwritten Math Solver
-**AI-Powered Mathematical Problem Solver**
+### 💸 SpendWise Pro
+> **Smart Expense Tracker & Financial Analytics**
 
-An intelligent application that recognizes handwritten mathematical expressions and provides instant solutions.
+Full-stack personal finance application with AI voice logging and interactive data visualization.
 
-- **Features:**
-  - Handwriting recognition
-  - Mathematical expression parsing
-  - Instant solution generation
-  - Step-by-step problem solving
-- **Live Demo:** [Handwritten Math Solver](https://handwrittenmathsolver.netlify.app/)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 
----
-
-## 💱 CurrencyX
-**Real-Time Currency Converter**
-
-A fast and reliable currency converter featuring real-time exchange rates for 30+ currencies worldwide.
-
-- **Features:**
-  - Real-time exchange rates
-  - Support for 30+ currencies
-  - Fast conversion calculations
-  - Clean and intuitive interface
-  - Offline support
-- **Live Demo:** [CurrencyX](https://currencyexchangex.netlify.app/)
+* **AI Voice Entry:** Speak your expenses to automatically parse amounts, categories, and tags.
+* **Analytics:** Interactive monthly/yearly expenditure trends and custom categories.
+* **🔗 Demo:** [Launch SpendWise Pro](https://spendtracker-gegctwve.edgeone.dev/)
 
 ---
 
-## 🌍 IP Address Finder
-**IP Locator & Map Visualization**
+### 💳 Card Keeper
+> **Apple Wallet-Style Card Management App**
 
-Instantly locate any IP address and visualize its approximate geographic position on an interactive map.
+Organize, store, and manage your payment cards with an intuitive, visually adaptive UI.
 
-- **Features:**
-  - IP address geolocation
-  - Interactive map visualization
-  - Detailed location information
-  - ISP and provider details
-  - Support for IPv4 and IPv6
-- **Live Demo:** [IP Address Finder](https://iplocatorx.netlify.app/)
+![Web App](https://img.shields.io/badge/Platform-Web-informational?style=flat-square)
+![UI/UX](https://img.shields.io/badge/Design-Apple_Wallet-black?style=flat-square&logo=apple)
 
----
-
-## 📱 Generate QR
-**QR Code Generator**
-
-Create QR codes for anything — URLs, contacts, WiFi credentials, payments, and more in seconds.
-
-- **Features:**
-  - Generate QR codes for URLs, contacts, WiFi, payments
-  - Customizable QR code design
-  - Download as PNG, SVG, or other formats
-  - Batch QR code generation
-  - QR code tracking and analytics
-- **Live Demo:** [Generate QR](https://qrgeneratorx.netlify.app/)
+* **Auto Detection:** Identifies network providers (Visa, RuPay, Mastercard) and issuing banks automatically.
+* **Adaptive Styling:** Dynamic color matching and visually distinct tiers (Credit, Debit, Prepaid).
+* **🔗 Demo:** [Launch Pocket Card Wallet](https://pocket-card-wallet.vercel.app/)
 
 ---
 
-## 🔐 PassVault
-**Vault-Themed Password Manager**
+### 🎓 CampusNear
+> **College Discovery & Admission Platform**
 
-A dark, elegant password manager with comprehensive security features including strength checker, generator, and secure credential vault.
+Full-stack web application for students to search, compare programs, and reserve college seats online.
 
-- **Features:**
-  - **Strength Checker** — Real-time password analysis with visual meter and actionable feedback
-  - **Generator** — Configurable length and character options with one-click copy
-  - **Credential Vault** — Securely store, reveal, copy, and delete saved credentials
-  - Dark vault-themed interface
-  - Local encryption and security
-- **Live Demo:** [PassVault](https://passwordkeeperx.netlify.app/)
+![Full Stack](https://img.shields.io/badge/Architecture-Full_Stack-blueviolet?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Portal-Admin_%26_Student-success?style=flat-square)
+
+* **Discovery Tools:** Compare fees, degree options, and campus criteria side-by-side.
+* **Admin Suite:** Dedicated dashboard for institution management, booking processing, and course updates.
+* **🔗 Demo:** [Explore CampusNear](https://campus-finder-guide.vercel.app/)
+
+---
+
+### 📺 AnimeWatchList
+> **Anime Tracking & Management Portal**
+
+Streamlined anime tracking app with state management and real-time backend synchronization.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+* **Features:** Watchlist categorization, series ratings, custom reviews, and live cloud sync.
+* **🔗 Demos:** [Vercel Live](https://animelistx.vercel.app/) • [Netlify Live](https://animelistx.netlify.app/)
+
+---
+
+## 🛠️ Utility & Web Tools
+
+| Project | Description | Tech / Features | Live Demo |
+| :--- | :--- | :--- | :---: |
+| **📐 Handwritten Math Solver** | AI math problem solver recognizing written input. | Optical Expression Parsing • Step-by-Step Solutions | [Demo](https://handwrittenmathsolver.netlify.app/) |
+| **🔐 PassVault** | Dark vault-themed password manager & generator. | Real-time Strength Meter • Local Encryption | [Demo](https://passwordkeeperx.netlify.app/) |
+| **💱 CurrencyX** | Real-time currency conversion tool. | 30+ Currencies • Instant Calculation • Offline Mode | [Demo](https://currencyexchangex.netlify.app/) |
+| **🌍 IP Address Finder** | IP geolocation lookup with interactive visual map. | IPv4 & IPv6 • ISP Detection • Map Rendering | [Demo](https://iplocatorx.netlify.app/) |
+| **📱 Generate QR** | Custom QR code generator for links, WiFi, & cards. | PNG/SVG Downloads • Custom Styling • Batch Creation | [Demo](https://qrgeneratorx.netlify.app/) |
 
 ---
 [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
