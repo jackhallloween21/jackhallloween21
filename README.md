@@ -214,32 +214,6 @@
 
 
  
-# 🚀 My Projects
-
-## 💰 TrackInvestment
-**Personal Finance Dashboard for Indian Investors**
-
-A comprehensive portfolio tracking dashboard designed specifically for Indian investors. Track your investments across multiple categories and get real-time insights.
-
-- **Features:** Mutual Funds, Stocks, Metals, Crypto, Savings Schemes tracking
-- **Live Data:** Metal price history powered by Supabase edge functions
-- **Live Demo:** 
-  - [Netlify](https://trackmyinvestment.netlify.app/)
-  - [Vercel](https://trackmyinvestment.vercel.app/)
-
----
-
-## 💳 Card Keeper
-**Apple Wallet-like Card Management App**
-
-A modern card management application that lets you store, organize, and manage your cards like Apple Wallet.
-
-- **Features:** 
-  - Manual card entry or scan cards
-  - Auto-detect card network (Visa, Rupay, Mastercard)
-  - Auto-detect bank name
-  - Color-coded by card type (Credit, Debit, Prepaid)
-  - Custom color matching to card appearance
 # 🚀 Featured Projects
 
 <div align="center">
