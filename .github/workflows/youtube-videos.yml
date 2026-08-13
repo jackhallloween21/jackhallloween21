@@ -22,4 +22,4 @@ jobs:
           comment_tag_name: "YOUTUBE-CARDS"
           max_videos: 5
           card_style: "flat"
-          show_duration: true
+          show_duration: false
