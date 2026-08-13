@@ -20,6 +20,8 @@ jobs:
           template: "- [$title]($url)"
           readme_path: "./README.md"
           comment_tag_name: "YOUTUBE-CARDS"
+          user_agent: "Mozilla/5.0"
+          accept_header: "application/atom+xml"
       
       - name: Commit and push changes
         run: |
