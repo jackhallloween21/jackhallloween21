@@ -1,0 +1,31 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update YouTube videos in README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 6
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-5-P2ShRYIis_HItg8YsWw"
+          template: "- [$title]($url)"
+          readme_path: "./README.md"
+          gh_username: "jackhallloween21"
+          comment_tag_name: "YOUTUBE-CARDS"
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Bot"
+          git config user.email "bot@github.com"
+          git add README.md
+          git commit -m "Update latest YouTube videos" || exit 0
+          git push
