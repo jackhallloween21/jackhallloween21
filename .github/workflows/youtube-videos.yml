@@ -19,7 +19,6 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-5-P2ShRYIis_HItg8YsWw"
           template: "- [$title]($url)"
           readme_path: "./README.md"
-          gh_username: "jackhallloween21"
           comment_tag_name: "YOUTUBE-CARDS"
       
       - name: Commit and push changes
