@@ -4,7 +4,7 @@
 ### ᖫJackHalloween21ᖭ
 
 <p align="center">
-  <img src="https://imgur.com/SJoyiLt.jpg" alt="Jack Halloween Banner" width="90%" style="border-radius: 12px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0088CC,100:007ec6&height=180&section=header&text=Jack%20Halloween&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Jack Halloween Header" width="100%" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jackhallloween21&style=for-the-badge&color=007ec6&label=Profile%20Views)](https://github.com/jackhallloween21)
@@ -71,21 +71,26 @@
 
 <div align="center">
 
-[![Jack's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jackhallloween21&theme=radical&margin-w=10&margin-h=10&column=4)](https://github.com/jackhallloween21)
+[![Jack's GitHub Trophies](https://github-profile-trophy-zeta.vercel.app/?username=jackhallloween21&theme=radical&margin-w=10&margin-h=10&column=4)](https://github.com/jackhallloween21)
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackhallloween21&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Jack's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackhallloween21&layout=compact&theme=radical&hide_border=true" alt="Jack's Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=jackhallloween21&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Jack's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=jackhallloween21&layout=compact&theme=radical&hide_border=true" alt="Jack's Most Used Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jackhallloween21&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackhallloween21&theme=2077" alt="Jack's GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackhallloween21&theme=2077" alt="Jack's GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackhallloween21&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" alt="Activity Graph" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=jackhallloween21&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackhallloween21&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" alt="Activity Graph" width="98%" />
 </p>
 
 </div>
@@ -163,11 +168,6 @@
 [![Subscribe](https://img.shields.io/youtube/channel/subscribers/UC-5-P2ShRYIis_HItg8YsWw?style=for-the-badge&label=Subscribe)](https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Grandpa High on Retro Walkthrough](https://ytcards.demolab.com/?id=yGSz-QA7TdA&title=Grandpa+High+on+Retro+Walkthrough&lang=en&timestamp=1784017432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Grandpa High on Retro Walkthrough")](https://www.youtube.com/watch?v=yGSz-QA7TdA)
-[![Moral Dilemma: The Interview](https://ytcards.demolab.com/?id=6pIOHd-NRRY&title=Moral+Dilemma%3A+The+Interview&lang=en&timestamp=1783598411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Moral Dilemma: The Interview")](https://www.youtube.com/watch?v=6pIOHd-NRRY)
-[![Scary Game 2: The Mad Shepherd](https://ytcards.demolab.com/?id=S2i3aqd8V78&title=Scary+Game+2%3A+The+Mad+Shepherd&lang=en&timestamp=1781411011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Scary Game 2: The Mad Shepherd")](https://www.youtube.com/watch?v=S2i3aqd8V78)
-[![Use macOS Dynamic Wallpapers on Windows 10 #4k](https://ytcards.demolab.com/?id=OHZzbVx--p0&title=Use+macOS+Dynamic+Wallpapers+on+Windows+10+%234k&lang=en&timestamp=1758738626&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Use macOS Dynamic Wallpapers on Windows 10 #4k")](https://www.youtube.com/watch?v=OHZzbVx--p0)
-[![Goldman Sachs 2025 Engineering Campus Hiring Program Sample Aptitude Test](https://ytcards.demolab.com/?id=LpC53UfC1rI&title=Goldman+Sachs+2025+Engineering+Campus+Hiring+Program+Sample+Aptitude+Test&lang=en&timestamp=1757183424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Goldman Sachs 2025 Engineering Campus Hiring Program Sample Aptitude Test")](https://www.youtube.com/watch?v=LpC53UfC1rI)
 <!-- END YOUTUBE-CARDS -->
 
 </div>
