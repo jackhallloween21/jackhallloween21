@@ -6,27 +6,20 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
-      - name: Update YouTube videos in README
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Update YouTube Cards in README
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          max_post_count: 6
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-5-P2ShRYIis_HItg8YsWw"
-          template: "- [$title]($url)"
-          readme_path: "./README.md"
+          channel_id: "UC-5-P2ShRYIis_HItg8YsWw"
           comment_tag_name: "YOUTUBE-CARDS"
-          user_agent: "Mozilla/5.0"
-          accept_header: "application/atom+xml"
-      
-      - name: Commit and push changes
-        run: |
-          git config user.name "GitHub Bot"
-          git config user.email "bot@github.com"
-          git add README.md
-          git commit -m "Update latest YouTube videos" || exit 0
-          git push
+          max_videos: 5
+          card_style: "flat"
+          show_duration: true
