@@ -2,39 +2,41 @@ name: Update Terminal Stats Card
 
 on:
   schedule:
-    # Run once every 24 hours at midnight
+    # Run daily at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual execution from the Actions tab
+  workflow_dispatch: # Allows manual trigger from the Actions tab
 
 permissions:
-  contents: write # Required to push the updated SVG back to the repo
+  contents: write
 
 jobs:
   build-stats:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
+      # Step 1: Checkout the repo with full git history
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
+          repository: jackhallloween21/jackhallloween21
+          token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
           fetch-depth: 0
 
-      # Step 2: Compile the SVG Card using our Action
+      # Step 2: Generate the Terminal Stats Card SVG
       - name: Generate SVG Terminal Stats Card
         uses: yogeshwaran01/github-stats-terminal-style@master
         with:
-          username: ${{ github.repository_owner }}
+          username: jackhallloween21
           theme: tokyonight
           headerStyle: mac
           commands: whoami,neofetch,languages,uptime,exit
-          outputPath: assets/github_stats.svg
+          outputPath: assets/images/github_stats.svg
 
-      # Step 3: Commit and Push the updated SVG card back to repository
+      # Step 3: Commit and Push directly back to jackhallloween21/jackhallloween21
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github_stats.svg
+          git add assets/images/github_stats.svg
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update terminal stats card [skip ci]" && git push)
