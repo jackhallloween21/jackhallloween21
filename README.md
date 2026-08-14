@@ -73,28 +73,38 @@
 
 [![Jack's GitHub Trophies](https://github-profile-trophy-zeta.vercel.app/?username=jackhallloween21&theme=radical&margin-w=10&margin-h=10&column=4)](https://github.com/jackhallloween21)
 
-<br/>
+<br/><br/>
 
+<!-- GitHub Stats Terminal (Main Feature Card) -->
+<a href="https://github.com/jackhallloween21">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=jackhallloween21&theme=tokyonight" alt="Jack's GitHub Terminal Stats" width="98%" />
+</a>
+
+<br/><br/>
+
+<!-- Side-by-Side Stats & Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=jackhallloween21&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Jack's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=jackhallloween21&layout=compact&theme=radical&hide_border=true" alt="Jack's Most Used Languages" width="48%" />
 </p>
 
+<!-- Side-by-Side Profile Details & Summary Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackhallloween21&theme=2077" alt="Jack's GitHub Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackhallloween21&theme=2077" alt="Jack's GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackhallloween21&theme=2077" alt="Jack's GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackhallloween21&theme=2077" alt="Jack's GitHub Stats Summary" width="48%" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jackhallloween21&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackhallloween21&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" alt="Activity Graph" width="98%" />
 </p>
 
 </div>
-
 ---
 
 ### 🐍 Contribution Activity
