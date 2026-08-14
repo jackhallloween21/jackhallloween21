@@ -4,7 +4,7 @@ on:
   schedule:
     # Run daily at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger from the Actions tab
+  workflow_dispatch: # Allows manual execution from Actions tab
 
 permissions:
   contents: write
@@ -14,26 +14,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repo with full git history
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           repository: jackhallloween21/jackhallloween21
-          token: ${{ secrets.G_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
           fetch-depth: 0
 
-      # Step 2: Generate the Terminal Stats Card SVG
-      - name: Generate SVG Terminal Stats Card
-        uses: yogeshwaran01/github-stats-terminal-style@master
-        with:
-          username: jackhallloween21
-          theme: tokyonight
-          headerStyle: mac
-          commands: whoami,neofetch,languages,uptime,exit
-          outputPath: assets/images/github_stats.svg
+      - name: Create assets directory
+        run: mkdir -p assets/images
 
-      # Step 3: Commit and Push directly back to jackhallloween21/jackhallloween21
+      - name: Download SVG Terminal Stats Card
+        run: |
+          curl -s "https://github-stats-terminal-style-five.vercel.app/api/stats?username=jackhallloween21&theme=tokyonight&headerStyle=mac" -o assets/images/github_stats.svg
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
