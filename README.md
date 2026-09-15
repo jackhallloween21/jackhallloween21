@@ -232,11 +232,7 @@
 [![Subscribe](https://img.shields.io/youtube/channel/subscribers/UC-5-P2ShRYIis_HItg8YsWw?style=for-the-badge&label=Subscribe)](https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Grandpa High on Retro Walkthrough](https://ytcards.demolab.com/?id=yGSz-QA7TdA&title=Grandpa+High+on+Retro+Walkthrough&lang=en&timestamp=1784017432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Grandpa High on Retro Walkthrough")](https://www.youtube.com/watch?v=yGSz-QA7TdA)
-[![Moral Dilemma: The Interview](https://ytcards.demolab.com/?id=6pIOHd-NRRY&title=Moral+Dilemma%3A+The+Interview&lang=en&timestamp=1783598411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Moral Dilemma: The Interview")](https://www.youtube.com/watch?v=6pIOHd-NRRY)
-[![Scary Game 2: The Mad Shepherd](https://ytcards.demolab.com/?id=S2i3aqd8V78&title=Scary+Game+2%3A+The+Mad+Shepherd&lang=en&timestamp=1781411011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Scary Game 2: The Mad Shepherd")](https://www.youtube.com/watch?v=S2i3aqd8V78)
-[![Use macOS Dynamic Wallpapers on Windows 10 #4k](https://ytcards.demolab.com/?id=OHZzbVx--p0&title=Use+macOS+Dynamic+Wallpapers+on+Windows+10+%234k&lang=en&timestamp=1758738626&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Use macOS Dynamic Wallpapers on Windows 10 #4k")](https://www.youtube.com/watch?v=OHZzbVx--p0)
-[![Goldman Sachs 2025 Engineering Campus Hiring Program Sample Aptitude Test](https://ytcards.demolab.com/?id=LpC53UfC1rI&title=Goldman+Sachs+2025+Engineering+Campus+Hiring+Program+Sample+Aptitude+Test&lang=en&timestamp=1757183424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Goldman Sachs 2025 Engineering Campus Hiring Program Sample Aptitude Test")](https://www.youtube.com/watch?v=LpC53UfC1rI)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
